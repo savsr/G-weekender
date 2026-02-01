@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 
 // Your Github JSON URL
-const DATA_URL = 'https://raw.githubusercontent.com/savsr/G-weekender/main/data/activities.json';
+const DATA_URL = 'https://raw.githubusercontent.com/savsr/G-weekender/refs/heads/main/data/activities.json?token=GHSAT0AAAAAADUPKLMOLSQTOEYZTK4LHWM22L7LDTA';
 
 // Fallback sample data (shown if fetch fails or before first newsletter runs)
 const fallbackData = {

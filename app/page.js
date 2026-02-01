@@ -434,7 +434,8 @@ export default function GeorgesWeekend() {
       // Try to fetch from Google Drive
       // Note: Google Drive direct downloads can be tricky with CORS
       // We'll use a proxy or fallback approach
-      const response = await fetch(DATA_URL, {
+    const res = await fetch(DATA_URL, { cache: "no-store" });
+
         method: 'GET',
         headers: {
           'Accept': 'application/json',

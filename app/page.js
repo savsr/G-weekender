@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from 'react';
 
-// Your Google Drive JSON URL
-const DATA_URL = 'https://drive.google.com/uc?export=download&id=1ujMCoc6UGTiAR-k3Z46XfTMUi5fDhbSL/georges-weekend-data.json';
+// Your Github JSON URL
+const DATA_URL = 'https://raw.githubusercontent.com/savsr/georges-weekend/main/data/activities.json';
 
 // Fallback sample data (shown if fetch fails or before first newsletter runs)
 const fallbackData = {

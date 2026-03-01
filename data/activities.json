@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-03-01T00:48:22.681Z",
+    "generatedAt": "2026-03-01T12:48:22.647Z",
     "weekendDates": "7 Mar - 8 Mar 2026",
     "weather": {
       "saturday": null,
@@ -8,7 +8,7 @@
       "recommendation": "outdoor",
       "summary": ""
     },
-    "greeting": "Hey George! Get ready for a weekend of awesome adventures! We've got trains, diggers, and even dinosaurs lined up just for you. Let's get muddy!"
+    "greeting": "Hey George! Get ready for a weekend full of diggers, trains and dinosaur adventures! We've found some amazing places for you to explore, from city farms to epic playgrounds. Let's get muddy!"
   },
   "sections": {
     "local": {
@@ -16,18 +16,48 @@
       "subtitle": "Hackney, Stratford & East London",
       "activities": [
         {
-          "title": "Mudchute Farm Adventure",
+          "title": "Muddy Fun at Hackney City Farm",
+          "venue": "Hackney City Farm",
+          "address": "E2 8QA",
+          "dates": "Daily",
+          "times": "10am-4:30pm",
+          "price": "Free",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Get up close with pigs, goats, and chickens. Explore the farm, enjoy the cafe, and maybe even try some pottery!",
+          "whyGeorgeWillLove": "Perfect for getting muddy and seeing farm animals!",
+          "transport": {
+            "fromHackney": "394 bus from Hackney Downs to Hackney City Farm (15 mins)",
+            "tube": null,
+            "bus": "394, 26",
+            "parking": "Limited street parking",
+            "tip": "Look out for the chickens roaming around!"
+          },
+          "highlights": [
+            "free",
+            "outdoor",
+            "animals",
+            "hands-on"
+          ],
+          "bookingUrl": null,
+          "isHighlight": true,
+          "isIndoor": false,
+          "duration": "1-2 hours",
+          "id": 1
+        },
+        {
+          "title": "DLR Adventure to Mudchute Farm",
           "venue": "Mudchute Farm",
-          "address": "Isle of Dogs, E14 3HP",
-          "dates": "Sat-Sun",
+          "address": "Isle of Dogs E14 3HP",
+          "dates": "Daily",
           "times": "9am-5pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore the biggest urban farm in Europe! See llamas, cows, pigs, and lots of other animals. Perfect for a full day of outdoor fun.",
-          "whyGeorgeWillLove": "Mudchute has animals galore and a DLR ride to get there - two of George's favourite things!",
+          "description": "Take a fun ride on the DLR and visit the biggest urban farm in Europe! See llamas, cows, and other farm animals.",
+          "whyGeorgeWillLove": "Combines his love of trains (DLR!) and animals (llamas!).",
           "transport": {
-            "fromHackney": "Overground to Shadwell, then DLR to Mudchute, 30 mins",
+            "fromHackney": "Overground to Stratford, then DLR to Mudchute (30 mins)",
             "tube": null,
             "bus": null,
             "parking": "Free parking available",
@@ -40,86 +70,88 @@
             "trains"
           ],
           "bookingUrl": null,
-          "isHighlight": true,
-          "isIndoor": false,
-          "duration": "2-4 hours",
-          "id": 1
-        },
-        {
-          "title": "Hackney City Farm Visit",
-          "venue": "Hackney City Farm",
-          "address": "E2 8QA",
-          "dates": "Sat-Sun",
-          "times": "10am-4:30pm",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "A small but charming city farm with pigs, goats, donkeys, and chickens.  Enjoy a coffee and cake at the cafe.",
-          "whyGeorgeWillLove": "George loves farm animals, and this farm is right in Hackney!",
-          "transport": {
-            "fromHackney": "Walk or 394/26 bus, 15 mins",
-            "tube": null,
-            "bus": "394/26 bus",
-            "parking": "Limited street parking",
-            "tip": null
-          },
-          "highlights": [
-            "free",
-            "animals",
-            "outdoor"
-          ],
-          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "1-2 hours",
+          "duration": "3-4 hours",
           "id": 2
         },
         {
-          "title": "Olympic Park Playground Fun",
+          "title": "Olympic Park Playground Extravaganza",
           "venue": "Queen Elizabeth Olympic Park",
-          "address": "Stratford, E20 2ST",
-          "dates": "Sat-Sun",
+          "address": "Stratford E20 2ST",
+          "dates": "Daily",
           "times": "Open all day",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore the massive playgrounds at the Olympic Park! Tumbling Bay has sand and water play, perfect for getting muddy.",
-          "whyGeorgeWillLove": "Endless running around and getting muddy in the sand and water!",
+          "description": "Explore the massive playgrounds, including Tumbling Bay (sand & water) and Pleasure Garden (splash area in summer). Plenty of space to run around!",
+          "whyGeorgeWillLove": "Endless opportunities for climbing, running, and playing in sand and water.",
           "transport": {
-            "fromHackney": "Overground to Stratford, 15 mins",
+            "fromHackney": "Overground to Stratford (15 mins)",
             "tube": null,
             "bus": null,
-            "parking": "Westfield shopping centre parking (paid)",
-            "tip": null
+            "parking": "Limited parking, use public transport",
+            "tip": "Pack a change of clothes for Tumbling Bay!"
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "hands-on",
+            "water play",
+            "sand pits"
           ],
           "bookingUrl": null,
-          "isHighlight": true,
+          "isHighlight": false,
           "isIndoor": false,
-          "duration": "2-4 hours",
+          "duration": "2-3 hours",
           "id": 3
         },
         {
-          "title": "Victoria Park Adventure",
+          "title": "Storytime Adventures at Discover",
+          "venue": "Discover Children's Story Centre",
+          "address": "Stratford E15 4QZ",
+          "dates": "Daily",
+          "times": "10am-5pm",
+          "price": "£8.50",
+          "isFree": false,
+          "ageRange": "0-11",
+          "description": "Immerse yourselves in interactive storytelling, dressing up, and character visits. A magical place for little ones!",
+          "whyGeorgeWillLove": "Lots of interactive play and dressing up, based on his favorite stories.",
+          "transport": {
+            "fromHackney": "Overground to Stratford (15 mins)",
+            "tube": null,
+            "bus": null,
+            "parking": "Limited parking, use public transport",
+            "tip": "Check the schedule for character visits!"
+          },
+          "highlights": [
+            "indoor",
+            "hands-on",
+            "interactive"
+          ],
+          "bookingUrl": "https://discover.org.uk/",
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-3 hours",
+          "id": 4
+        },
+        {
+          "title": "Victoria Park Fun",
           "venue": "Victoria Park",
-          "address": "Hackney/Bow, E9 7DE",
-          "dates": "Sat-Sun",
+          "address": "Hackney/Bow E9 7DE",
+          "dates": "Daily",
           "times": "Open all day",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Two great playgrounds to choose from, plus a deer enclosure to see some animals.  Bring a picnic!",
-          "whyGeorgeWillLove": "Two playgrounds to climb and run, plus deer to spot!",
+          "description": "Explore two great playgrounds, a boating lake, and a deer enclosure. Perfect for a family day out.",
+          "whyGeorgeWillLove": "Plenty of space to run around and see animals.",
           "transport": {
-            "fromHackney": "Walk/bus, 10-20 mins",
-            "tube": "Mile End (10 min walk)",
+            "fromHackney": "Walk or cycle (15-20 mins), or bus",
+            "tube": null,
             "bus": null,
-            "parking": "Limited street parking",
-            "tip": null
+            "parking": "Limited parking, use public transport",
+            "tip": "Take a picnic to enjoy by the lake!"
           },
           "highlights": [
             "free",
@@ -130,56 +162,28 @@
           "isHighlight": false,
           "isIndoor": false,
           "duration": "2-3 hours",
-          "id": 4
+          "id": 5
         },
         {
           "title": "Young V&A Playtime",
           "venue": "Young V&A",
-          "address": "Bethnal Green, E2 9PA",
-          "dates": "Sat-Sun",
+          "address": "Bethnal Green E2 9PA",
+          "dates": "Daily",
           "times": "10am-5:45pm",
           "price": "Free",
           "isFree": true,
-          "ageRange": "All ages",
-          "description": "Explore the under 5s play area at the Young V&A. Hands-on design workshops available.",
-          "whyGeorgeWillLove": "A dedicated play area where George can get hands-on and be creative.",
+          "ageRange": "All ages, under 5s play area",
+          "description": "Explore the under 5s play area and design workshops at this amazing museum. Something for all ages!",
+          "whyGeorgeWillLove": "Hands-on play area and workshops to spark his imagination.",
           "transport": {
-            "fromHackney": "Bus or Overground to Bethnal Green, 20 mins",
-            "tube": "Bethnal Green (5 min walk)",
-            "bus": null,
-            "parking": "Limited street parking",
-            "tip": null
+            "fromHackney": "Bus 26 to Bethnal Green (20 mins)",
+            "tube": "Bethnal Green (Central line)",
+            "bus": "26",
+            "parking": "Limited parking, use public transport",
+            "tip": "Check the schedule for workshop times."
           },
           "highlights": [
             "free",
-            "indoor",
-            "hands-on"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": true,
-          "duration": "1-2 hours",
-          "id": 5
-        },
-        {
-          "title": "Discover Children's Story Centre",
-          "venue": "Discover Children's Story Centre",
-          "address": "Stratford, E15 4QZ",
-          "dates": "Sat-Sun",
-          "times": "10am-5pm",
-          "price": "£8.50",
-          "isFree": false,
-          "ageRange": "All ages",
-          "description": "Immerse yourself in interactive storytelling, dressing up, and character visits. Let George's imagination run wild!",
-          "whyGeorgeWillLove": "Interactive storytelling and dressing up - a chance to become his favourite characters!",
-          "transport": {
-            "fromHackney": "Overground to Stratford, 15 mins",
-            "tube": null,
-            "bus": null,
-            "parking": "Westfield parking (paid)",
-            "tip": null
-          },
-          "highlights": [
             "indoor",
             "hands-on"
           ],
@@ -190,32 +194,31 @@
           "id": 6
         },
         {
-          "title": "Springfield Park Riverside Walk & Play",
-          "venue": "Springfield Park",
-          "address": "Clapton, E5 9EF",
-          "dates": "Sat-Sun",
-          "times": "Open all day",
+          "title": "V&A East Storehouse Adventure",
+          "venue": "V&A East Storehouse",
+          "address": "Stratford E20 1HZ",
+          "dates": "Daily",
+          "times": "10am-5pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Enjoy a riverside walk, visit the cafe, and let George loose in the playground. Great views over the marshes.",
-          "whyGeorgeWillLove": "A chance to run around, climb, and enjoy the outdoors by the river.",
+          "description": "See amazing visible storage displays at this brand new museum! Lots to explore and discover.",
+          "whyGeorgeWillLove": "A new and exciting place to explore with lots of interesting objects to see.",
           "transport": {
-            "fromHackney": "Clapton Overground, 5 min walk",
+            "fromHackney": "Overground to Stratford (15 mins)",
             "tube": null,
             "bus": null,
-            "parking": "Limited street parking",
-            "tip": null
+            "parking": "Limited parking, use public transport",
+            "tip": "Explore the Westfield shopping centre while you're there."
           },
           "highlights": [
             "free",
-            "outdoor",
-            "playground"
+            "indoor"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
-          "duration": "2-3 hours",
+          "isIndoor": true,
+          "duration": "1-2 hours",
           "id": 7
         }
       ]
@@ -225,180 +228,180 @@
       "subtitle": "Worth the journey across London",
       "activities": [
         {
-          "title": "Dinosaur Adventure at the Natural History Museum",
+          "title": "Dinosaur Discovery at the Natural History Museum",
           "venue": "Natural History Museum",
-          "address": "South Kensington, SW7 5BD",
-          "dates": "Sat-Sun",
+          "address": "South Kensington SW7 5BD",
+          "dates": "Daily",
           "times": "10am-5:50pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "See the famous T-Rex skeleton and explore the fascinating dinosaur gallery. Don't miss the Blue Whale in Hintze Hall!",
-          "whyGeorgeWillLove": "Dinosaurs! Especially T-Rex!",
+          "description": "See the famous T-Rex skeleton and explore the dinosaur gallery. Don't miss the Blue Whale in Hintze Hall and the Wildlife Garden!",
+          "whyGeorgeWillLove": "DINOSAURS! Especially the T-Rex!",
           "transport": {
-            "fromHackney": "Overground to Highbury & Islington, then Victoria Line to South Kensington, 45 mins",
-            "tube": "South Kensington (follow tunnel)",
+            "fromHackney": "Overground to Highbury & Islington, then Victoria Line to Green Park, then Piccadilly Line to South Kensington (45 mins)",
+            "tube": "South Kensington (Piccadilly, Circle, District lines)",
             "bus": null,
-            "parking": "Limited street parking (expensive)",
-            "tip": "Go early to avoid crowds!"
+            "parking": "Limited parking, use public transport",
+            "tip": "Follow the tunnel from South Kensington tube to the museum."
           },
           "highlights": [
             "free",
-            "dinosaurs",
-            "indoor"
+            "indoor",
+            "dinosaurs"
           ],
           "bookingUrl": null,
           "isHighlight": true,
           "isIndoor": true,
-          "duration": "2-4 hours",
+          "duration": "3-4 hours",
           "id": 8
         },
         {
-          "title": "London Transport Museum Exploration",
+          "title": "All Aboard at the London Transport Museum",
           "venue": "London Transport Museum",
-          "address": "Covent Garden, WC2E 7BB",
-          "dates": "Sat-Sun",
+          "address": "Covent Garden WC2E 7BB",
+          "dates": "Daily",
           "times": "10am-6pm",
-          "price": "Adults £24, Under 18s Free",
+          "price": "Adults £24, Under 18s FREE with adult",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "Climb on old buses and trains, try the tube simulator, and play in the All Aboard play zone. A fantastic day out for transport enthusiasts!",
-          "whyGeorgeWillLove": "Buses and trains he can climb on!",
+          "description": "Climb on old buses & trains, try the tube simulator, and play in the All Aboard play zone. Don't forget the stamper trail!",
+          "whyGeorgeWillLove": "Trains and buses he can climb on!",
           "transport": {
-            "fromHackney": "Overground to Highbury & Islington, then Victoria Line to Oxford Circus, then Central Line to Covent Garden, 45 mins",
-            "tube": "Covent Garden or Leicester Square",
+            "fromHackney": "Overground to Highbury & Islington, then Victoria Line to Oxford Circus, then Piccadilly Line to Covent Garden (40 mins)",
+            "tube": "Covent Garden or Leicester Square (Piccadilly, Northern lines)",
             "bus": null,
-            "parking": "Very limited street parking (expensive)",
-            "tip": null
+            "parking": "Limited parking, use public transport",
+            "tip": "Under 18s are FREE with an adult ticket!"
           },
           "highlights": [
+            "indoor",
             "trains",
             "buses",
-            "indoor",
             "hands-on"
           ],
-          "bookingUrl": null,
-          "isHighlight": true,
+          "bookingUrl": "https://www.ltmuseum.co.uk/",
+          "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-4 hours",
+          "duration": "2-3 hours",
           "id": 9
         },
         {
-          "title": "RAF Museum Flight Adventure",
+          "title": "RAF Museum: Planes Galore!",
           "venue": "RAF Museum London",
-          "address": "Colindale, NW9 5LL",
-          "dates": "Sat-Sun",
+          "address": "Colindale NW9 5LL",
+          "dates": "Daily",
           "times": "10am-5pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore huge aircraft hangers filled with planes and helicopters. Enjoy the outdoor playground.",
-          "whyGeorgeWillLove": "Planes and helicopters galore!",
+          "description": "See huge aircraft hangers filled with amazing planes, watch the 4D cinema, and play in the outdoor playground.",
+          "whyGeorgeWillLove": "Lots of planes and helicopters to see!",
           "transport": {
-            "fromHackney": "Overground to Finsbury Park, then Piccadilly Line to Colindale, 45 mins",
-            "tube": "Colindale",
+            "fromHackney": "Overground to Gospel Oak, then Overground to Willesden Junction, then Jubilee Line to Colindale (1hr)",
+            "tube": "Colindale (Northern Line)",
             "bus": null,
-            "parking": "Free parking",
-            "tip": null
+            "parking": "Free parking available",
+            "tip": "Check the schedule for 4D cinema show times."
           },
           "highlights": [
             "free",
-            "planes",
+            "indoor",
             "outdoor",
-            "indoor"
+            "planes"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-4 hours",
+          "duration": "2-3 hours",
           "id": 10
         },
         {
-          "title": "Crystal Palace Park Dinosaurs & Playground",
+          "title": "Crystal Palace Dinosaurs & Farm",
           "venue": "Crystal Palace Park",
           "address": "SE19 2GA",
-          "dates": "Sat-Sun",
+          "dates": "Daily",
           "times": "Open all day",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Discover the Victorian dinosaur statues on the islands! Plus a farm, maze, and great playground.",
-          "whyGeorgeWillLove": "Dinosaur statues and a great playground!",
+          "description": "See the famous Victorian dinosaur statues on the islands! Also enjoy the farm, maze, and great playground.",
+          "whyGeorgeWillLove": "DINOSAUR STATUES and farm animals in one place!",
           "transport": {
-            "fromHackney": "Overground to Highbury & Islington, then Overground to Crystal Palace, 1 hour",
+            "fromHackney": "Overground to Highbury & Islington, then Overground to Shoreditch High Street, then Overground to Crystal Palace (1hr)",
             "tube": null,
             "bus": null,
-            "parking": "Free parking",
-            "tip": null
+            "parking": "Parking available, charges apply",
+            "tip": "Take a picnic to enjoy by the dinosaurs!"
           },
           "highlights": [
             "free",
-            "dinosaurs",
             "outdoor",
+            "dinosaurs",
             "animals"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "3-5 hours",
+          "duration": "3-4 hours",
           "id": 11
         },
         {
-          "title": "Thames Clipper to Greenwich",
+          "title": "Thames Clipper Boat Ride to Greenwich",
           "venue": "Thames Clippers",
           "address": "Tower Pier to Greenwich",
-          "dates": "Sat-Sun",
+          "dates": "Daily",
           "times": "Regular departures",
           "price": "£9 adult/£4.50 child with Oyster",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "Take a real boat ride down the Thames to Greenwich! Enjoy the views from the outside deck.",
-          "whyGeorgeWillLove": "A boat ride on the river!",
+          "description": "Take a real boat ride on the Thames Clipper from Tower Pier to Greenwich. Enjoy the views from the back of the boat!",
+          "whyGeorgeWillLove": "A real boat ride on the river!",
           "transport": {
-            "fromHackney": "Bus or Overground to Bank, then walk to Tower Pier, 30 mins",
+            "fromHackney": "Bus 26 to Liverpool Street, then tube to Tower Hill (40 mins)",
             "tube": null,
             "bus": null,
-            "parking": null,
+            "parking": "Limited parking, use public transport",
             "tip": "Sit outside at the back of the boat for the best views!"
           },
           "highlights": [
             "trains",
             "outdoor"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.thamesclippers.com/",
           "isHighlight": false,
           "isIndoor": false,
           "duration": "1 hour",
           "id": 12
         },
         {
-          "title": "National Maritime Museum & Greenwich Park Playground",
+          "title": "Maritime Adventures at Greenwich",
           "venue": "National Maritime Museum",
-          "address": "Greenwich, SE10 9NF",
-          "dates": "Sat-Sun",
+          "address": "Greenwich SE10 9NF",
+          "dates": "Daily",
           "times": "10am-5pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore the ships gallery and the AHOY! children's gallery. Enjoy the great playground outside in Greenwich Park.",
-          "whyGeorgeWillLove": "Ships and a great playground to run around in!",
+          "description": "Explore the ships gallery and the AHOY! children's gallery (under 7s). There's also a great playground outside.",
+          "whyGeorgeWillLove": "Ships and a playground to explore!",
           "transport": {
-            "fromHackney": "Overground to Stratford, then DLR to Cutty Sark, 45 mins",
+            "fromHackney": "DLR from Stratford to Cutty Sark (50 mins)",
             "tube": null,
             "bus": null,
-            "parking": "Paid parking available",
+            "parking": "Limited parking, use public transport",
             "tip": "Take the DLR for a fun train ride!"
           },
           "highlights": [
             "free",
-            "trains",
+            "indoor",
             "outdoor",
-            "hands-on"
+            "trains"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "3-5 hours",
+          "duration": "2-3 hours",
           "id": 13
         }
       ]
@@ -410,25 +413,26 @@
         {
           "title": "Hey Duggee Live!",
           "venue": "Touring London",
-          "address": "Various locations",
+          "address": "Various venues",
           "dates": "March/April",
-          "times": "Various",
-          "price": "£15+",
+          "times": "Various times",
+          "price": "£20+",
           "isFree": false,
           "ageRange": "2+",
-          "description": "Join Duggee and the Squirrels for a fun-filled live show! Earn badges and sing along to your favourite songs.",
-          "whyGeorgeWillLove": "It's Hey Duggee - one of George's favourite shows!",
+          "description": "See Hey Duggee and the Squirrel Club live on stage! Earn badges and sing along to your favourite songs.",
+          "whyGeorgeWillLove": "It's Hey Duggee LIVE!",
           "transport": {
-            "fromHackney": "Varies by venue",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
             "parking": null,
-            "tip": null
+            "tip": "Book tickets early as they sell out fast!"
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.heyduggee.com/live/",
           "isHighlight": true,
           "isIndoor": true,
           "duration": "1 hour",
@@ -437,138 +441,171 @@
         {
           "title": "Dinosaur World Live",
           "venue": "Touring London",
-          "address": "Various locations",
-          "dates": "April",
-          "times": "Various",
+          "address": "Various venues",
+          "dates": "March/April",
+          "times": "Various times",
           "price": "£20+",
           "isFree": false,
           "ageRange": "3+",
-          "description": "Experience life-size dinosaur puppets on stage! A thrilling and educational show for dinosaur lovers.",
-          "whyGeorgeWillLove": "Life-size dinosaur puppets!",
+          "description": "See life-size dinosaur puppets on stage! A thrilling and educational show for dinosaur lovers.",
+          "whyGeorgeWillLove": "LIFE-SIZE DINOSAURS!",
           "transport": {
-            "fromHackney": "Varies by venue",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
             "parking": null,
-            "tip": null
+            "tip": "Some dinosaurs can be a little scary, so be prepared!"
           },
           "highlights": [
+            "indoor",
             "dinosaurs",
-            "indoor"
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://dinosaurworldlive.com/",
           "isHighlight": true,
           "isIndoor": true,
           "duration": "1 hour",
           "id": 15
         },
         {
-          "title": "Bluey's Big Play",
+          "title": "Peppa Pig Live!",
           "venue": "Touring London",
-          "address": "Various locations",
-          "dates": "April",
-          "times": "Various",
+          "address": "Various venues",
+          "dates": "March/April",
+          "times": "Various times",
           "price": "£18+",
           "isFree": false,
-          "ageRange": "3+",
-          "description": "See Bluey, Bingo, Mum and Dad as never before, in this brand-new theatrical adaptation of the Emmy® award-winning children’s television series.",
-          "whyGeorgeWillLove": "It's Bluey!",
+          "ageRange": "2+",
+          "description": "Join Peppa Pig and her friends for a singing and dancing adventure on stage!",
+          "whyGeorgeWillLove": "It's Peppa Pig!",
           "transport": {
-            "fromHackney": "Varies by venue",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
             "parking": null,
-            "tip": null
+            "tip": "Get ready to sing and dance along!"
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.peppapiglive.com/",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "1 hour",
           "id": 16
         },
         {
-          "title": "Peppa Pig Live",
+          "title": "The Tiger Who Came to Tea",
           "venue": "Touring London",
-          "address": "Various locations",
+          "address": "Various venues",
           "dates": "March/April",
-          "times": "Various",
+          "times": "Various times",
           "price": "£15+",
           "isFree": false,
-          "ageRange": "2+",
-          "description": "Join Peppa, George, Mummy and Daddy Pig in this all-singing, all-dancing adventure filled with songs, games and muddy puddles!",
-          "whyGeorgeWillLove": "Peppa Pig and Muddy Puddles!",
+          "ageRange": "3+",
+          "description": "See the classic story of The Tiger Who Came to Tea brought to life on stage.",
+          "whyGeorgeWillLove": "A fun and engaging theatre show.",
           "transport": {
-            "fromHackney": "Varies by venue",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
             "parking": null,
-            "tip": null
+            "tip": "A great first theatre experience."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.tigerwhocametotealive.com/",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "1 hour",
           "id": 17
         },
         {
-          "title": "The Tiger Who Came to Tea",
+          "title": "Bluey's Big Play",
           "venue": "Touring London",
-          "address": "Various locations",
+          "address": "Various Venues",
           "dates": "March/April",
           "times": "Various",
-          "price": "£12+",
+          "price": "£15+",
           "isFree": false,
           "ageRange": "3+",
-          "description": "A musical play adapted from the beloved children's book. Filled with catchy songs and magical moments.",
-          "whyGeorgeWillLove": "A fun and engaging theatre experience.",
+          "description": "Join Bluey and Bingo in their Big Play!",
+          "whyGeorgeWillLove": "Bluey is on stage!",
           "transport": {
-            "fromHackney": "Varies by venue",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
             "parking": null,
-            "tip": null
+            "tip": "Get ready to dance!"
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.blueylive.com/",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "1 hour",
           "id": 18
         },
         {
-          "title": "Half Moon Theatre Show",
-          "venue": "Half Moon Theatre",
-          "address": "Limehouse",
-          "dates": "Various dates in March/April",
-          "times": "Various",
-          "price": "£8+",
+          "title": "Room on the Broom",
+          "venue": "Touring London",
+          "address": "Various venues",
+          "dates": "March/April",
+          "times": "Various times",
+          "price": "£15+",
           "isFree": false,
-          "ageRange": "2+",
-          "description": "Check the Half Moon Theatre's website for upcoming shows specifically for young children. It's close to Hackney!",
-          "whyGeorgeWillLove": "A local theatre with shows designed for his age group.",
+          "ageRange": "3+",
+          "description": "See the classic Julia Donaldson story come to life on stage.",
+          "whyGeorgeWillLove": "A fun show!",
           "transport": {
-            "fromHackney": "Bus or DLR, 30 mins",
+            "fromHackney": "Varies depending on venue",
             "tube": null,
             "bus": null,
-            "parking": "Limited street parking",
-            "tip": null
+            "parking": null,
+            "tip": "A great first theatre experience."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "show"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://www.scamptheatre.com/",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "1 hour",
           "id": 19
+        },
+        {
+          "title": "Half Moon Theatre Shows",
+          "venue": "Half Moon Theatre",
+          "address": "Limehouse",
+          "dates": "Various dates",
+          "times": "Various times",
+          "price": "£8+",
+          "isFree": false,
+          "ageRange": "3+",
+          "description": "Check out the regular kid's shows at your local theatre!",
+          "whyGeorgeWillLove": "A local theatre!",
+          "transport": {
+            "fromHackney": "Bus to Limehouse",
+            "tube": null,
+            "bus": null,
+            "parking": null,
+            "tip": "Check out their website"
+          },
+          "highlights": [
+            "indoor",
+            "show"
+          ],
+          "bookingUrl": "https://www.halfmoon.org.uk/",
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "1 hour",
+          "id": 20
         }
       ]
     }

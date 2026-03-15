@@ -1,19 +1,14 @@
 {
   "metadata": {
-    "generatedAt": "2026-03-14T12:48:22.990Z",
-    "weekendDates": "14 Mar - 15 Mar 2026",
+    "generatedAt": "2026-03-15T00:48:22.677Z",
+    "weekendDates": "21 Mar - 22 Mar 2026",
     "weather": {
       "saturday": null,
-      "sunday": {
-        "temp": 11,
-        "description": "broken clouds",
-        "icon": "Clouds",
-        "rain": 0
-      },
+      "sunday": null,
       "recommendation": "outdoor",
-      "summary": "Sunday: 11°C, broken clouds"
+      "summary": ""
     },
-    "greeting": "This weekend is packed with fun activities for your 3-year-old in Hackney! From barn dancing at Round Chapel to puppet workshops at Little Angel Theatre, there's something for everyone. And with Sunday's weather looking good for outdoor activities, get ready for a fantastic time!"
+    "greeting": "This weekend in Hackney looks amazing for your little one! There's a delightful mix of free and engaging activities, from puppet shows to musical adventures. Plus, Easter is just around the corner, so I've found some fantastic opportunities to book ahead for egg hunts and spring-themed fun!"
   },
   "sections": {
     "local": {
@@ -21,220 +16,209 @@
       "subtitle": "Hackney, Stratford & East London",
       "activities": [
         {
-          "title": "Cut A Shine St. Patrick's Day – Family Barn Dance",
-          "venue": "Hackney's Round Chapel",
-          "address": "Hackney, E5 0PU",
-          "dates": "14 Mar 2026",
+          "title": "A Squash and a Squeeze",
+          "venue": "Little Angel Theatre",
+          "address": "Islington, N1 2DN",
+          "dates": "15 March–21 March 2026",
           "times": "Various",
-          "price": "Paid",
+          "price": "Under £20",
           "isFree": false,
-          "ageRange": "All ages",
-          "description": "A family barn dance with dances designed for the smallest kids, plus Irish stew and a kids' disco.",
-          "whyItWorks": "Fun, active, and suitable for all ages, offering a lively and engaging experience.",
+          "ageRange": "3-8",
+          "description": "A little old lady feels her house is too small. A wise old man suggests bringing in farmyard animals!",
+          "whyItWorks": "Puppetry and songs will captivate a 3-year-old. Geared towards young audiences.",
           "transport": {
-            "fromHackney": "Bus routes and overground to Hackney Downs or Hackney Central, followed by a short walk.",
-            "tip": "Check bus routes in advance as some may be affected by the St Patrick's Day Parade."
+            "fromHackney": "Tube to Angel/Highbury & Islington.",
+            "tip": "Check for Friday Fives for £5 tickets."
           },
           "highlights": [
             "indoor",
-            "music",
-            "dancing",
-            "family-friendly"
+            "puppets",
+            "songs"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7l-7NIPlA5g2AdP9BY0ePZ-JBzsRVwf3-gtOXefKV9l9J6HvGqDeWpE2-bdq03GVbE8gK1sP-pu7wtTo-j2opwgihv1EOUg9VnaTYD0cAieicQpTpzM0h503inO5LIdZaZk-3lJMo",
           "isHighlight": true,
           "isIndoor": true,
-          "duration": "2-3 hours",
+          "duration": "45 minutes",
           "id": 1
         },
         {
           "title": "Family Workshops - The Everywhere Bear",
-          "venue": "Little Angel Studios",
-          "address": "Islington, N1 2EH",
-          "dates": "14 Mar - 15 Mar 2026",
+          "venue": "Little Angel Theatre",
+          "address": "Islington, N1 2DN",
+          "dates": "15 March 2026",
           "times": "Various",
-          "price": "£10",
+          "price": "Check Website",
           "isFree": false,
           "ageRange": "3-8",
-          "description": "Create spoon puppet versions of the characters in the story and miniature stage backdrops inspired by The Everywhere Bear.",
-          "whyItWorks": "Hands-on, creative, and linked to a well-loved story, perfect for engaging a 3-year-old's imagination.",
+          "description": "Create spoon puppet versions of the characters and miniature stage backdrops.",
+          "whyItWorks": "Hands-on craft activity perfect for creative toddlers. Connects with the story of The Everywhere Bear.",
           "transport": {
-            "fromHackney": "Bus to Islington, then a short walk, or Overground to Highbury & Islington, then a bus.",
-            "tip": "Check which venue the workshop is at when booking, either the Theatre or the Studios."
+            "fromHackney": "Tube to Angel/Highbury & Islington.",
+            "tip": "Book in advance as workshops fill up."
           },
           "highlights": [
             "indoor",
-            "crafts",
-            "puppets",
-            "storytelling",
-            "creative"
+            "hands-on",
+            "puppets"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7l-7NIPlA5g2AdP9BY0ePZ-JBzsRVwf3-gtOXefKV9l9J6HvGqDeWpE2-bdq03GVbE8gK1sP-pu7wtTo-j2opwgihv1EOUg9VnaTYD0cAieicQpTpzM0h503inO5LIdZaZk-3lJMo",
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "1.5-2 hours",
+          "duration": "1-2 hours",
           "id": 2
         },
         {
-          "title": "A Squash and a Squeeze",
-          "venue": "Little Angel Studios",
-          "address": "Islington, N1 2DN",
-          "dates": "14 Mar–21 Mar 2026",
+          "title": "Candlelight Concert for Babies",
+          "venue": "The Great Hall",
+          "address": "City, EC1A",
+          "dates": "Saturday 21 March",
           "times": "Various",
-          "price": "Paid",
+          "price": "Check Website",
           "isFree": false,
-          "ageRange": "3-8",
-          "description": "A puppet show about a little old lady whose house feels too small, featuring a flappy, scratchy, greedy, noisy crowd of farmyard animals.",
-          "whyItWorks": "Puppets, animals, and a simple, engaging story make this ideal for a 3-year-old.",
+          "ageRange": "0-9 months",
+          "description": "Gentle classical music in a softly lit, candle-style setting. Calm and sensory-friendly.",
+          "whyItWorks": "Soothing sensory experience for very young children.",
           "transport": {
-            "fromHackney": "Bus or Overground to Highbury & Islington, then a short bus ride or walk.",
-            "tip": "Book tickets in advance, especially for weekend showings, as availability is low."
+            "fromHackney": "Check location for best route.",
+            "tip": "Designed to be calm and sensory-friendly."
           },
           "highlights": [
             "indoor",
-            "puppets",
-            "theatre",
-            "animals"
+            "music",
+            "sensory"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "45 minutes",
+          "duration": "1 hour",
           "id": 3
+        },
+        {
+          "title": "Make-Lab Masterclass: Wind Machines at Young V&A",
+          "venue": "Young V&A",
+          "address": "Bethnal Green",
+          "dates": "Sat 28 Mar",
+          "times": "10.30am-12.30pm and 2.00pm-4.00pm",
+          "price": "£25",
+          "isFree": false,
+          "ageRange": "7-14 (families)",
+          "description": "Use wire sculpting and foiling to design a wind turbine. 2hr workshop.",
+          "whyItWorks": "Hands-on design activity at a museum designed for children.",
+          "transport": {
+            "fromHackney": "Central Line to Bethnal Green",
+            "tip": "Check age suitability."
+          },
+          "highlights": [
+            "indoor",
+            "hands-on",
+            "design"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2 hours",
+          "id": 4
         },
         {
           "title": "The Everywhere Bear",
           "venue": "Little Angel Theatre",
           "address": "Islington, N1 2DN",
-          "dates": "15 Mar–19 Apr 2026",
+          "dates": "15 March–19 April 2026",
           "times": "Various",
-          "price": "Paid",
+          "price": "Under £20",
           "isFree": false,
-          "ageRange": "3-8",
-          "description": "A puppet show about The Everywhere Bear who has a wonderful time with the children in Class One, but one day he gets more than he bargained for.",
-          "whyItWorks": "Engaging story and puppets, appealing to young children's sense of adventure.",
+          "ageRange": "3-6",
+          "description": "Follow the titular teddy on his adventures using rhyme, puppets and new songs.",
+          "whyItWorks": "Puppets, rhymes and new songs.",
           "transport": {
-            "fromHackney": "Bus or Overground to Highbury & Islington, then a short bus ride or walk.",
-            "tip": "Check the Little Angel Theatre website for showtimes and to book tickets."
+            "fromHackney": "Tube to Angel/Highbury & Islington.",
+            "tip": "Check for Friday Fives for £5 tickets."
           },
           "highlights": [
             "indoor",
             "puppets",
-            "theatre",
-            "storytelling"
+            "songs"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7l-7NIPlA5g2AdP9BY0ePZ-JBzsRVwf3-gtOXefKV9l9J6HvGqDeWpE2-bdq03GVbE8gK1sP-pu7wtTo-j2opwgihv1EOUg9VnaTYD0cAieicQpTpzM0h503inO5LIdZaZk-3lJMo",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "45 minutes",
-          "id": 4
-        },
-        {
-          "title": "Young V&A",
-          "venue": "Young V&A",
-          "address": "Bethnal Green, E2 9PA",
-          "dates": "Ongoing",
-          "times": "10:00-17:45",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "0-14",
-          "description": "Explore design and creativity at the Young V&A, with collections and displays designed to inspire young minds.",
-          "whyItWorks": "Interactive exhibits and a focus on design make this museum engaging for young children, and it's free.",
-          "transport": {
-            "fromHackney": "Central Line to Bethnal Green, then a short walk.",
-            "tip": "Check the website for any special events or workshops taking place."
-          },
-          "highlights": [
-            "free",
-            "indoor",
-            "design",
-            "interactive",
-            "creative"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": true,
-          "duration": "2-3 hours",
           "id": 5
         },
         {
-          "title": "Spitalfields City Farm",
-          "venue": "Spitalfields City Farm",
-          "address": "Spitalfields, E1 5AR",
-          "dates": "Ongoing",
-          "times": "10:00-16:30",
+          "title": "Guided Walk: Birds and Their Song at Highgate Wood",
+          "venue": "Highgate Wood",
+          "address": "Highgate",
+          "dates": "Sat 28 Mar",
+          "times": "9.00am",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "A city farm with donkeys, sheep, goats, and gardens.",
-          "whyItWorks": "Animals and outdoor space are always a hit with toddlers, and it's free!",
+          "description": "Walks last 1hr to 1hr 30. Meet by café. Map on website.",
+          "whyItWorks": "Outdoor walk, free and good to be in nature.",
           "transport": {
-            "fromHackney": "Bus to Shoreditch or Liverpool Street, then a short walk.",
-            "tip": "Check for special events or workshops on their website."
+            "fromHackney": "Check location for best route.",
+            "tip": "Dress warm"
           },
           "highlights": [
             "free",
             "outdoor",
-            "animals",
-            "gardens"
+            "animals"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "1-2 hours",
+          "duration": "1-1.5 hours",
           "id": 6
         },
         {
-          "title": "Library Club",
-          "venue": "Hackney Showroom",
-          "address": "Hackney, E8",
-          "dates": "Tuesdays (term time)",
-          "times": "15:30-17:30",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "0-13",
-          "description": "Reading corner and diverse book-pairing service.",
-          "whyItWorks": "A relaxing and engaging activity for young children, promoting a love of reading.",
+          "title": "Family Fun Day: Spectacular Space at The Royal Institution",
+          "venue": "The Royal Institution",
+          "address": "Check website",
+          "dates": "Sat 28 Mar",
+          "times": "11.00am-4.00pm",
+          "price": "£17.06, u17 £10.85",
+          "isFree": false,
+          "ageRange": "6-12",
+          "description": "Fun-filled day of experiments, talks and demos. Rec 6-12, siblings welcome. Books up quickly.",
+          "whyItWorks": "Interactive day.",
           "transport": {
-            "fromHackney": "Local buses to Hackney Central, then a short walk.",
-            "tip": "Check term times before visiting."
+            "fromHackney": "Check location for best route.",
+            "tip": "Books up quickly."
           },
           "highlights": [
-            "free",
             "indoor",
-            "reading",
-            "books"
+            "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "1-2 hours",
+          "duration": "5 hours",
           "id": 7
         },
         {
-          "title": "The Ga Legacy in Colour",
-          "venue": "Explore Gallery @ Half Moon",
-          "address": "43 White Horse Rd, London E1 0ND",
-          "dates": "15 January - 1 July 2026",
-          "times": "Varies",
-          "price": "Free",
-          "isFree": true,
+          "title": "Family Art in the Park at Alexandra Palace",
+          "venue": "Alexandra Palace",
+          "address": "Alexandra Palace",
+          "dates": "Check Website",
+          "times": "Check Website",
+          "price": "Check Website",
+          "isFree": false,
           "ageRange": "All ages",
-          "description": "Vibrant exhibition dedicated to preserving and sharing the legacy of the Ga language from Accra, Ghana, in a contemporary form.",
-          "whyItWorks": "A colourful and engaging exhibition that introduces children to a different culture in a fun way.",
+          "description": "Identify wildflowers, make a mini flower press and work with pressed flowers. Fun-filled outdoor art session with the Friends of Alexandra Park.",
+          "whyItWorks": "Creative and outdoor.",
           "transport": {
-            "fromHackney": "Take the Overground to Whitechapel, then a short bus ride or walk.",
-            "tip": "Check the Half Moon website for opening times and any special events."
+            "fromHackney": "Check location for best route.",
+            "tip": "Dress warm"
           },
           "highlights": [
-            "free",
-            "indoor",
-            "culture",
-            "art"
+            "outdoor",
+            "hands-on",
+            "free"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": true,
+          "isIndoor": false,
           "duration": "1-2 hours",
           "id": 8
         }
@@ -245,307 +229,300 @@
       "subtitle": "Worth the journey",
       "activities": [
         {
+          "title": "Lindt Gold Bunny Hunt at Hampton Court Palace",
+          "venue": "Hampton Court Palace",
+          "address": "Hampton Court, KT8 9AU",
+          "dates": "21 March – 12 April 2026",
+          "times": "During Palace opening hours",
+          "price": "Included with palace admission",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Roam around the gardens and find hidden Lindt Gold Bunny statues to win a chocolate treat.",
+          "whyItWorks": "Easter egg hunt in a beautiful setting.",
+          "transport": {
+            "fromHackney": "Train to Hampton Court.",
+            "tip": "Book tickets in advance online."
+          },
+          "highlights": [
+            "outdoor",
+            "animals",
+            "Easter",
+            "chocolate"
+          ],
+          "bookingUrl": null,
+          "isHighlight": true,
+          "isIndoor": false,
+          "duration": "2-3 hours",
+          "id": 9
+        },
+        {
+          "title": "Zoonormous Egg Hunt at London Zoo",
+          "venue": "London Zoo",
+          "address": "Regent's Park, NW1 4RY",
+          "dates": "28 March – 12 April 2026",
+          "times": "During Zoo opening hours",
+          "price": "Included with zoo admission",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Wander past giraffes, lions, monkeys and more incredible wildlife as you search for hidden eggs on a special Easter egg hunt.",
+          "whyItWorks": "Combines animals and an Easter egg hunt.",
+          "transport": {
+            "fromHackney": "Tube to Regent's Park or Camden Town.",
+            "tip": "Book tickets in advance online."
+          },
+          "highlights": [
+            "outdoor",
+            "animals",
+            "Easter",
+            "chocolate"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": false,
+          "duration": "3-4 hours",
+          "id": 10
+        },
+        {
           "title": "Natural History Museum",
           "venue": "Natural History Museum",
           "address": "South Kensington, SW7 5BD",
           "dates": "Ongoing",
-          "times": "10:00-17:30",
+          "times": "10am - 5:50pm",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore the history of planet Earth with dinosaur fossils, meteorites, and interactive exhibits.",
-          "whyItWorks": "Dinosaurs and interactive exhibits make this a captivating and educational experience for young children, and it's free.",
+          "description": "Explore dinosaurs, fascinating exhibits, and enjoy family-friendly activities.",
+          "whyItWorks": "Engaging exhibits for kids, free entry.",
           "transport": {
-            "fromHackney": "Piccadilly Line directly to South Kensington.",
-            "tip": "Visit during off-peak hours to avoid crowds."
+            "fromHackney": "Tube to South Kensington.",
+            "tip": "Book a free timed entry ticket online."
           },
           "highlights": [
             "free",
             "indoor",
             "dinosaurs",
-            "interactive",
-            "museum"
+            "interactive exhibits"
           ],
-          "bookingUrl": null,
-          "isHighlight": true,
-          "isIndoor": true,
-          "duration": "3-4 hours",
-          "id": 9
-        },
-        {
-          "title": "Science Museum",
-          "venue": "Science Museum",
-          "address": "South Kensington, SW7 2DD",
-          "dates": "Ongoing",
-          "times": "10:00-18:00",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Hands-on exhibits and interactive displays make learning about science fun for all ages.",
-          "whyItWorks": "Interactive exhibits are perfect for engaging young children's curiosity and making learning fun, and it's free.",
-          "transport": {
-            "fromHackney": "Piccadilly Line directly to South Kensington.",
-            "tip": "Check for special events or demonstrations happening during your visit."
-          },
-          "highlights": [
-            "free",
-            "indoor",
-            "science",
-            "interactive",
-            "educational"
-          ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-hR0ikwqR3BDoxVycVjgVhHbVuf-WCm03j6eesO6mie_bQ50fT3aTcel-J9gVNRJGPo2yAK5Af2HQaBzeTPR4TvdWAIr3P4B0d1GMeGym9DO9QNUyDKrq-Jl",
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "3-4 hours",
-          "id": 10
-        },
-        {
-          "title": "Kew Gardens - Sounds of Blossom",
-          "venue": "Kew Gardens",
-          "address": "Richmond, TW9",
-          "dates": "14 Mar – 6 Apr 2026",
-          "times": "Various",
-          "price": "Paid",
-          "isFree": false,
-          "ageRange": "All ages",
-          "description": "Enjoy the magnolias and cherry blossom, paired with musical compositions.",
-          "whyItWorks": "Outdoor space, beautiful blossoms, and gentle music create a sensory experience suitable for a 3-year-old.",
-          "transport": {
-            "fromHackney": "District Line to Kew Gardens station.",
-            "tip": "Head for Cherry Walk and Magnolia Walk, then finish near The Orangery café."
-          },
-          "highlights": [
-            "outdoor",
-            "gardens",
-            "nature",
-            "music"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
           "duration": "2-3 hours",
           "id": 11
         },
         {
-          "title": "Southbank Centre",
-          "venue": "Southbank Centre",
-          "address": "South Bank, SE1",
+          "title": "Young V&A",
+          "venue": "Young V&A",
+          "address": "Bethnal Green, E2 9PA",
           "dates": "Ongoing",
-          "times": "Various",
-          "price": "Mostly Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "A riverside hub with art installations, family concerts, creative workshops, and open spaces.",
-          "whyItWorks": "Lots of space to roam, free activities, and a vibrant atmosphere make this a great day out.",
-          "transport": {
-            "fromHackney": "Jubilee Line to Waterloo or Northern Line to Embankment, then a short walk.",
-            "tip": "Check the Southbank Centre website for free events and activities."
-          },
-          "highlights": [
-            "free",
-            "outdoor",
-            "indoor",
-            "art",
-            "music"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": true,
-          "duration": "2-4 hours",
-          "id": 12
-        },
-        {
-          "title": "Queen's Walk",
-          "venue": "Queen's Walk, South Bank",
-          "address": "South Bank, SE1",
-          "dates": "Ongoing",
-          "times": "Anytime",
+          "times": "10:00 - 17:45",
           "price": "Free",
           "isFree": true,
-          "ageRange": "All ages",
-          "description": "A riverside stroll with views, buskers, and a merry-go-round.",
-          "whyItWorks": "Space to run around safely, entertainment, and iconic sights make this a fun and easy day out.",
+          "ageRange": "0-14",
+          "description": "Museum dedicated to childhood creativity with collections of toys, design and more.",
+          "whyItWorks": "Specifically designed for children. Free entry.",
           "transport": {
-            "fromHackney": "Jubilee Line to Waterloo or Northern Line to Embankment, then a short walk.",
-            "tip": "Stop for an ice cream at Oxo Tower."
-          },
-          "highlights": [
-            "free",
-            "outdoor",
-            "walking",
-            "views"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "1-2 hours",
-          "id": 13
-        },
-        {
-          "title": "Jubilee Gardens Adventure Playground",
-          "venue": "Jubilee Gardens",
-          "address": "South Bank, SE1",
-          "dates": "Ongoing",
-          "times": "Daylight hours",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Adventure playground with sensory sound, vision, and touch experiences.",
-          "whyItWorks": "Great for letting off steam, with equipment designed to delight children of differing abilities.",
-          "transport": {
-            "fromHackney": "Jubilee Line to Waterloo, then a short walk.",
-            "tip": "Pack a lunch to enjoy on the grass."
-          },
-          "highlights": [
-            "free",
-            "outdoor",
-            "playground",
-            "sensory"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "1-2 hours",
-          "id": 14
-        },
-        {
-          "title": "British Museum",
-          "venue": "British Museum",
-          "address": "Great Russell Street, Bloomsbury, WC1B 3DG",
-          "dates": "Ongoing",
-          "times": "10:00-17:00",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Explore world art and artifacts from throughout history and around the globe.",
-          "whyItWorks": "Stimulating for a 3-year-old, with lots to see. Pick a specific area to focus on to avoid overwhelm.",
-          "transport": {
-            "fromHackney": "Central Line to Holborn or Tottenham Court Road, then a short walk.",
-            "tip": "Check for family trails and activities on the website."
+            "fromHackney": "Central Line to Bethnal Green.",
+            "tip": "Check website for special events."
           },
           "highlights": [
             "free",
             "indoor",
-            "culture",
-            "history"
+            "hands-on",
+            "design"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
           "duration": "2-3 hours",
-          "id": 15
-        }
-      ]
-    },
-    "bookAhead": {
-      "title": "Book Ahead",
-      "subtitle": "28 March - 9 May",
-      "activities": [
+          "id": 12
+        },
         {
-          "title": "Easter Egg Hunt at Ham House and Garden",
-          "venue": "Ham House and Garden",
-          "address": "Richmond, Surrey",
-          "dates": "28 Mar – 6 Apr 2026",
-          "times": "10:00-17:00",
-          "price": "Paid (Normal Admission)",
+          "title": "Horniman Museum and Gardens",
+          "venue": "Horniman Museum and Gardens",
+          "address": "Forest Hill, SE23 3PQ",
+          "dates": "Ongoing",
+          "times": "10am - 5.30pm",
+          "price": "Free (some attractions charged)",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Explore quirky exhibits, musical instruments, animals, and gardens. Aquarium and Butterfly House extra fee.",
+          "whyItWorks": "Lots to see and do, both indoors and outdoors. Animal walk.",
+          "transport": {
+            "fromHackney": "Overground to Forest Hill.",
+            "tip": "Check out the Animal Walk."
+          },
+          "highlights": [
+            "free",
+            "outdoor",
+            "indoor",
+            "animals",
+            "gardens"
+          ],
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-o-xZnPSjPylGnntCecIpn5PoSFUx__bbKp0BNM3_W7NO9kX77cgxCfRZr5optHoHLez1CL2vQwaOGBHrmX5VM7qTMFcNnPR51jmV92NPxc4-a_OSuRb6ksiwbuyP7hA61WTDyI",
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-3 hours",
+          "id": 13
+        },
+        {
+          "title": "Kew Gardens",
+          "venue": "Kew Gardens",
+          "address": "Kew, Richmond, TW9",
+          "dates": "Ongoing",
+          "times": "Various",
+          "price": "From ~£15 adult (children cheaper / under-4s free)",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "A seasonal trail set within one of south-west London's most intact 17th-century estates.",
-          "whyItWorks": "An outdoor adventure that will capture the imagination of a 3-year-old.",
+          "description": "Discover stunning gardens and flower displays. Check website for seasonal events.",
+          "whyItWorks": "Great outdoor space to explore.",
           "transport": {
-            "fromHackney": "Train to Richmond, then a local bus or a walk.",
-            "tip": "Event runs daily from 10am to 5pm and is designed as a self-guided outdoor activity."
+            "fromHackney": "Tube or Train to Kew Gardens.",
+            "tip": "Check out Cherry Walk and Magnolia Walk."
           },
           "highlights": [
             "outdoor",
-            "easter",
-            "hunt",
+            "gardens",
+            "nature"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": false,
+          "duration": "3-4 hours",
+          "id": 14
+        },
+        {
+          "title": "Battersea Park",
+          "venue": "Battersea Park",
+          "address": "Battersea, London",
+          "dates": "Ongoing",
+          "times": "Various",
+          "price": "Free (Zoo entry paid separately)",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Scenic escape with lush gardens, a boating lake, playgrounds, and a mini zoo. Families can enjoy informal Easter egg hunts, picnics, or just a relaxing walk.",
+          "whyItWorks": "Offers a scenic escape with gardens.",
+          "transport": {
+            "fromHackney": "Train to Battersea Park.",
+            "tip": "Visit the pagoda and lakeside paths."
+          },
+          "highlights": [
+            "free",
+            "outdoor",
+            "animals",
             "gardens"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
           "duration": "2-3 hours",
-          "id": 16
+          "id": 15
         },
         {
-          "title": "Lindt Gold Bunny Hunt at Hampton Court Palace",
-          "venue": "Hampton Court Palace",
-          "address": "Hampton Court, KT8 9AU",
-          "dates": "21 Mar – 12 Apr 2026",
+          "title": "Southbank Centre",
+          "venue": "Southbank Centre",
+          "address": "South Bank, London",
+          "dates": "Ongoing",
           "times": "Various",
-          "price": "Paid (with palace admission)",
+          "price": "Varies",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "Follow the trail, matching the names of influential characters to the Lindt gold bunny statues and collecting a mini chocolate treat.",
-          "whyItWorks": "An Easter trail that actually motivates kids to walk and a chocolate treat at the end.",
+          "description": "A world-famous arts centre with a dynamic year-round festivals programme and an inclusive ethos.",
+          "whyItWorks": "Offers a variety of events and activities for all ages.",
           "transport": {
-            "fromHackney": "Train to Hampton Court.",
-            "tip": "Go early in the day – the grounds are calmer before lunch."
+            "fromHackney": "Underground Stations Waterloo, Embankment.",
+            "tip": "Check for free events."
           },
           "highlights": [
-            "outdoor",
-            "easter",
-            "hunt",
-            "chocolate"
+            "indoor",
+            "music",
+            "theatre",
+            "free"
           ],
           "bookingUrl": null,
-          "isHighlight": true,
-          "isIndoor": false,
-          "duration": "1.5 hours",
-          "id": 17
-        },
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-4 hours",
+          "id": 16
+        }
+      ]
+    },
+    "bookAhead": {
+      "title": "Book Ahead",
+      "subtitle": "29 March - 10 May",
+      "activities": [
         {
-          "title": "London Zoo's Zoonormous Egg Hunt",
-          "venue": "London Zoo",
-          "address": "Regent's Park, NW1 4RY",
-          "dates": "28 Mar – 12 Apr 2026",
-          "times": "Various",
-          "price": "Paid (with zoo admission)",
+          "title": "Easter Eggsplorers at Hobbledown Heath",
+          "venue": "Hobbledown Heath",
+          "address": "Check Website",
+          "dates": "28 March – 12 April 2026",
+          "times": "Check Website",
+          "price": "Check Website",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "Explore the Zoo on a special Easter egg hunt, searching for six giant Easter eggs hidden around the park.",
-          "whyItWorks": "Animals plus an Easter egg hunt equals a fun-filled day for a 3-year-old.",
+          "description": "Full-scale Easter event.",
+          "whyItWorks": "Easter themed event.",
           "transport": {
-            "fromHackney": "Bus to Regent's Park or Camden Town, then a short walk.",
-            "tip": "Book tickets online in advance to save time."
+            "fromHackney": "Check location for best route.",
+            "tip": "Check website for details."
           },
           "highlights": [
             "outdoor",
-            "animals",
-            "easter",
-            "hunt"
+            "Easter"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "3-4 hours",
+          "duration": "2-3 hours",
+          "id": 17
+        },
+        {
+          "title": "Easter Egg Hunt at Ham House and Garden",
+          "venue": "Ham House and Garden",
+          "address": "Richmond, Surrey",
+          "dates": "28 March – 6 April 2026",
+          "times": "10am to 5pm",
+          "price": "Normal Admission Applies",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Enjoy fun activities, game stations and an exciting egg trail through this glorious garden.",
+          "whyItWorks": "Outdoor trail designed for children.",
+          "transport": {
+            "fromHackney": "Train to Richmond, then bus or walk.",
+            "tip": "No advance booking required."
+          },
+          "highlights": [
+            "outdoor",
+            "Easter",
+            "hands-on"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": false,
+          "duration": "2-3 hours",
           "id": 18
         },
         {
           "title": "Octonauts Above & Beyond at Kew Gardens",
           "venue": "Kew Gardens",
-          "address": "Richmond, TW9",
-          "dates": "28 Mar – 12 Apr 2026",
-          "times": "Various",
-          "price": "Paid (with gardens admission)",
+          "address": "Kew, Richmond, TW9",
+          "dates": "28 March to 12 April 2026",
+          "times": "During Gardens opening hours",
+          "price": "Included with gardens admission",
           "isFree": false,
           "ageRange": "3-6",
-          "description": "An interactive trail that invites young explorers to complete challenges and discover facts.",
-          "whyItWorks": "Combines outdoor exploration with a popular children's show, engaging and educational.",
+          "description": "An interactive trail that invites young explorers to complete challenges, discover facts and learn how to protect our planet.",
+          "whyItWorks": "Interactive trail suitable for the age range.",
           "transport": {
-            "fromHackney": "District Line to Kew Gardens station.",
-            "tip": "Allow 2-3 hours to do it properly."
+            "fromHackney": "Tube or Train to Kew Gardens.",
+            "tip": "Book garden entry in advance."
           },
           "highlights": [
             "outdoor",
             "interactive",
-            "gardens",
-            "educational"
+            "animals"
           ],
           "bookingUrl": null,
-          "isHighlight": false,
+          "isHighlight": true,
           "isIndoor": false,
           "duration": "2-3 hours",
           "id": 19
@@ -554,77 +531,72 @@
           "title": "I Want My Hat Back Trilogy",
           "venue": "Little Angel Studios",
           "address": "Islington, N1 2DN",
-          "dates": "26 Mar–9 May 2026",
+          "dates": "26 March–9 May 2026",
           "times": "Various",
-          "price": "Paid",
+          "price": "Under £20",
           "isFree": false,
           "ageRange": "3-6",
-          "description": "Jon Klassen's beloved books come to life on stage with Bear, Little Fish and the Turtles.",
-          "whyItWorks": "Puppets and a well-known story make this a great theatre experience for young children.",
+          "description": "Jon Klassen's beloved books LIVE on stage. All your favourites including Bear, Little Fish and the Turtles.",
+          "whyItWorks": "Puppets, rhymes and new songs.",
           "transport": {
-            "fromHackney": "Bus or Overground to Highbury & Islington, then a short bus ride or walk.",
-            "tip": "Book tickets in advance on the Little Angel Theatre website."
+            "fromHackney": "Tube to Angel/Highbury & Islington.",
+            "tip": "Check for Friday Fives for £5 tickets."
           },
           "highlights": [
             "indoor",
             "puppets",
-            "theatre",
-            "storytelling"
+            "songs"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7l-7NIPlA5g2AdP9BY0ePZ-JBzsRVwf3-gtOXefKV9l9J6HvGqDeWpE2-bdq03GVbE8gK1sP-pu7wtTo-j2opwgihv1EOUg9VnaTYD0cAieicQpTpzM0h503inO5LIdZaZk-3lJMo",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "45 minutes",
           "id": 20
         },
         {
-          "title": "The Koala Who Could",
-          "venue": "Queen Elizabeth Hall, Southbank Centre",
-          "address": "South Bank, SE1",
-          "dates": "1 Apr – 5 Apr 2026",
-          "times": "Various",
-          "price": "Paid",
+          "title": "Lambing Weekend at Forty Hall Farm",
+          "venue": "Forty Hall Farm",
+          "address": "Enfield",
+          "dates": "28-29 Mar",
+          "times": "11.00am-4.00pm",
+          "price": "£8.30, 3-15 £6.13, u3 free",
           "isFree": false,
-          "ageRange": "3+",
-          "description": "An outback adventure about taking a chance, combining puppetry and songs.",
-          "whyItWorks": "Puppetry, songs, and a positive message about embracing change make this show engaging for 3-year-olds.",
+          "ageRange": "All ages",
+          "description": "Family farm weekend with new lambs, falconry, Morris dancing, vintage fairground and hands-on activities.",
+          "whyItWorks": "Animals and hands-on activities.",
           "transport": {
-            "fromHackney": "Jubilee Line to Waterloo.",
-            "tip": "Book tickets in advance, as this is a popular show."
+            "fromHackney": "Check location for best route.",
+            "tip": "Under 3s are free."
           },
           "highlights": [
-            "indoor",
-            "theatre",
-            "puppets",
-            "music"
+            "outdoor",
+            "animals",
+            "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": true,
-          "duration": "1 hour",
+          "isIndoor": false,
+          "duration": "4-5 hours",
           "id": 21
         },
         {
-          "title": "Puppet Playcation - Superheroes",
-          "venue": "Little Angel Studios",
-          "address": "Islington, N1 2DN",
-          "dates": "31 Mar–2 Apr 2026",
+          "title": "British Library's Fairy Tales exhibition",
+          "venue": "British Library",
+          "address": "96 Euston Rd NW1",
+          "dates": "27th March – 23rd August 2026",
           "times": "Various",
-          "price": "Paid",
+          "price": "From £11.50",
           "isFree": false,
-          "ageRange": "5+",
-          "description": "A holiday workshop where children can create their own superhero puppets.",
-          "whyItWorks": "Creative activity combined with the popular theme of superheroes",
+          "ageRange": "All ages",
+          "description": "Explore enchanted lands, magical creatures, iconic characters and timeless tales, brought to life through books, theatre costumes, puppets, pop-ups, artwork and illustrations.",
+          "whyItWorks": "Puppets and illustrations.",
           "transport": {
-            "fromHackney": "Bus or Overground to Highbury & Islington, then a short bus ride or walk.",
-            "tip": "Check the Little Angel Theatre website for workshop times and booking."
+            "fromHackney": "Check location for best route.",
+            "tip": "Check website for details."
           },
           "highlights": [
             "indoor",
-            "puppets",
-            "crafts",
-            "creative",
-            "superheroes"
+            "puppets"
           ],
           "bookingUrl": null,
           "isHighlight": false,
@@ -633,31 +605,29 @@
           "id": 22
         },
         {
-          "title": "Family Fun at the Cutty Sark",
-          "venue": "Cutty Sark",
-          "address": "Greenwich, SE10 9HT",
-          "dates": "Various dates in March and April",
+          "title": "Family Workshops - Little Lambs",
+          "venue": "Little Angel Theatre",
+          "address": "Islington, N1 2DN",
+          "dates": "28 March–29 March 2026",
           "times": "Various",
-          "price": "Paid (with Cutty Sark admission)",
+          "price": "Check Website",
           "isFree": false,
-          "ageRange": "All ages",
-          "description": "Meet characters from the ship's past, follow a family trail, and join in musical storytelling sessions.",
-          "whyItWorks": "Engaging and educational, with characters and activities to capture the imagination.",
+          "ageRange": "3-8",
+          "description": "It's time to get woolly at our Little Lamb Family Workshop for Springtime!",
+          "whyItWorks": "Hands-on craft activity perfect for creative toddlers. Connects with the Springtime theme.",
           "transport": {
-            "fromHackney": "DLR to Cutty Sark station.",
-            "tip": "Check the Cutty Sark website for the schedule of activities."
+            "fromHackney": "Tube to Angel/Highbury & Islington.",
+            "tip": "Book in advance as workshops fill up."
           },
           "highlights": [
             "indoor",
-            "outdoor",
-            "history",
-            "storytelling",
-            "maritime"
+            "hands-on",
+            "animals"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7l-7NIPlA5g2AdP9BY0ePZ-JBzsRVwf3-gtOXefKV9l9J6HvGqDeWpE2-bdq03GVbE8gK1sP-pu7wtTo-j2opwgihv1EOUg9VnaTYD0cAieicQpTpzM0h503inO5LIdZaZk-3lJMo",
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-3 hours",
+          "duration": "1-2 hours",
           "id": 23
         }
       ]

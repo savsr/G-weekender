@@ -1,24 +1,19 @@
 {
   "metadata": {
-    "generatedAt": "2026-03-28T00:48:22.342Z",
+    "generatedAt": "2026-03-28T12:48:22.427Z",
     "weekendDates": "28 Mar - 29 Mar 2026",
     "weather": {
-      "saturday": {
-        "temp": 10,
-        "description": "light rain",
-        "icon": "Rain",
-        "rain": 0.12
-      },
+      "saturday": null,
       "sunday": {
         "temp": 10,
         "description": "overcast clouds",
         "icon": "Clouds",
         "rain": 0
       },
-      "recommendation": "mixed",
-      "summary": "Saturday: 10°C, light rain. Sunday: 10°C, overcast clouds"
+      "recommendation": "outdoor",
+      "summary": "Sunday: 10°C, overcast clouds"
     },
-    "greeting": "This weekend in Hackney, we've got a mix of indoor and outdoor activities to keep your little one entertained despite the weather! From free museum visits with hands-on exhibits to exciting Easter bonnet parades and animal encounters, there's something for everyone."
+    "greeting": "Get ready for a fun-filled weekend! There are plenty of exciting activities happening in and around London that are perfect for a curious 3-year-old. From free museum visits and outdoor adventures to captivating theatre shows and Easter-themed events, there's something for everyone to enjoy!"
   },
   "sections": {
     "local": {
@@ -28,16 +23,16 @@
         {
           "title": "Young V&A",
           "venue": "Young V&A",
-          "address": "Bethnal Green, E2 9PA",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:45",
+          "address": "Cambridge Heath Rd, Bethnal Green, London E2 9PA",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:45 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A museum designed specifically for children with hands-on activities, workshops, and exhibitions to encourage imagination, play, and design.",
-          "whyItWorks": "Offers sensory play areas suitable for toddlers and interactive exhibits to capture their attention.",
+          "ageRange": "0-9",
+          "description": "Interactive museum with collections of toys, design and childhood. Mini Museum is sensory space for under 2s",
+          "whyItWorks": "Hands-on exhibits and sensory areas are great for toddlers. Free and close to Hackney.",
           "transport": {
-            "fromHackney": "Take the Central Line to Bethnal Green station.",
+            "fromHackney": "Take the Central Line to Bethnal Green station. It's a short walk from the station.",
             "tip": "Check for special events and workshops on their website."
           },
           "highlights": [
@@ -53,23 +48,24 @@
           "id": 1
         },
         {
-          "title": "Biodiversity Playground",
-          "venue": "Queen Elizabeth Olympic Park",
-          "address": "Stratford, E20 2ST",
-          "dates": "Open Daily",
-          "times": "Varies",
+          "title": "Hackney City Farm",
+          "venue": "Hackney City Farm",
+          "address": "1a Goldsmiths Row, London E2 8QR",
+          "dates": "Ongoing",
+          "times": "10:00 - 16:30 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A beautifully designed wooden playground with a sweet pond theme, perfect for toddlers.",
-          "whyItWorks": "Provides a safe and engaging space for toddlers to explore and play outdoors.",
+          "ageRange": "All ages",
+          "description": "Meet farm animals, see gardens, and enjoy a slice of the countryside in the city.",
+          "whyItWorks": "Animals, outdoor space, and a relaxed atmosphere are perfect for toddlers.",
           "transport": {
-            "fromHackney": "Take the Central Line to Stratford station.",
-            "tip": "Combine with a visit to the Westfield Stratford City shopping centre for lunch."
+            "fromHackney": "Several buses go directly to the farm from Hackney. Check Citymapper for the best route.",
+            "tip": "Check for special events like lambing season."
           },
           "highlights": [
             "free",
             "outdoor",
+            "animals",
             "hands-on"
           ],
           "bookingUrl": null,
@@ -81,69 +77,70 @@
         {
           "title": "Discover Children's Story Centre",
           "venue": "Discover Children's Story Centre",
-          "address": "Stratford, E15 4QZ",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:00",
+          "address": "383 Stratford High Street, Stratford, London, E15 4QZ",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:00 Daily",
           "price": "£10",
           "isFree": false,
-          "ageRange": "0-5",
-          "description": "Immersive play spaces and a story garden playground for young children.",
-          "whyItWorks": "Features interactive storytelling sessions, crafts, and sing-alongs suitable for babies and toddlers.",
+          "ageRange": "0-11",
+          "description": "Immersive play spaces based on children's stories. Includes the Story Garden playground.",
+          "whyItWorks": "Interactive exhibits and a playground make this a great place for active toddlers.",
           "transport": {
-            "fromHackney": "Take the Central Line to Stratford station.",
-            "tip": "Check the schedule for baby storytelling and singalong times."
+            "fromHackney": "Take the Overground to Stratford station. It's a short walk from the station.",
+            "tip": "Book tickets in advance to guarantee entry."
           },
           "highlights": [
             "indoor",
-            "hands-on",
-            "sensory"
+            "outdoor",
+            "hands-on"
           ],
-          "bookingUrl": null,
+          "bookingUrl": "https://discover.org.uk/",
           "isHighlight": false,
           "isIndoor": true,
           "duration": "2-3 hours",
           "id": 3
         },
         {
-          "title": "Museum of the Home",
-          "venue": "Museum of the Home",
-          "address": "Hoxton, E2 8EA",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:00",
+          "title": "Walthamstow Wetlands",
+          "venue": "Walthamstow Wetlands",
+          "address": "2 Forest Road, London N17 9NH",
+          "dates": "Ongoing",
+          "times": "09:30 - 17:00 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Explore the history of homes and domestic life through a series of room displays.",
-          "whyItWorks": "Offers a sensory experience for toddlers with different textures and objects to explore, plus gardens to wander in.",
+          "ageRange": "All ages",
+          "description": "Explore a large urban nature reserve with reservoirs, walking trails, and bird hides.",
+          "whyItWorks": "Outdoor space, wildlife, and easy walking trails are great for toddlers.",
           "transport": {
-            "fromHackney": "Take the Overground to Hoxton station.",
-            "tip": "Check out the gardens for a relaxing break."
+            "fromHackney": "Take the bus to Tottenham Hale and walk to the Wetlands.",
+            "tip": "Bring a picnic to enjoy by the water."
           },
           "highlights": [
             "free",
-            "indoor",
-            "outdoor"
+            "outdoor",
+            "animals",
+            "nature"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": true,
-          "duration": "1-2 hours",
+          "isIndoor": false,
+          "duration": "2-3 hours",
           "id": 4
         },
         {
-          "title": "Hackney City Farm",
-          "venue": "Hackney City Farm",
-          "address": "Hackney, E2 8QA",
-          "dates": "Open Daily",
-          "times": "10:00 - 16:30",
+          "title": "Spitalfields City Farm",
+          "venue": "Spitalfields City Farm",
+          "address": "Buxton St, London E1 5AR",
+          "dates": "Ongoing",
+          "times": "10:00 - 16:30 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A community farm with a variety of animals, gardens, and activities for children.",
-          "whyItWorks": "Provides a hands-on experience with animals and nature, perfect for toddlers.",
+          "ageRange": "All ages",
+          "description": "A small city farm with animals and gardens in the heart of Spitalfields.",
+          "whyItWorks": "Compact size makes it easy for toddlers to explore. Free and close to Hackney.",
           "transport": {
-            "fromHackney": "Located in Hackney; walking distance for many.",
-            "tip": "Check for special events and feeding times."
+            "fromHackney": "Take the bus to Shoreditch High Street and walk to the farm.",
+            "tip": "Check for special events and workshops."
           },
           "highlights": [
             "free",
@@ -158,23 +155,24 @@
           "id": 5
         },
         {
-          "title": "Spitalfields Bonnet Parade",
-          "venue": "Old Spitalfields Market",
-          "address": "Spitalfields, E1 6BG",
-          "dates": "28 March 2026",
-          "times": "Parade at 2pm",
+          "title": "Vauxhall City Farm",
+          "venue": "Vauxhall City Farm",
+          "address": "165 Tyers St, London SE11 5HS",
+          "dates": "March 28 - April 12, 2026",
+          "times": "10:30-16:00 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "All ages",
-          "description": "Show up in your most creative headwear for an East London spin on a spring tradition.  Judging and prize giving follows at 2pm.",
-          "whyItWorks": "A fun, free and engaging parade where locals show off their Easter bonnets.",
+          "ageRange": "All Ages",
+          "description": "Free Easter hunts and bonnet-making crafts",
+          "whyItWorks": "Activities cater to young children with arts, crafts, and animal interactions.",
           "transport": {
-            "fromHackney": "Take the Overground to Shoreditch High Street Station.",
-            "tip": "Get there early to secure a good viewing spot."
+            "fromHackney": "Take the Victoria line to Vauxhall Station",
+            "tip": "Pack a lunch to enjoy in the picnic area."
           },
           "highlights": [
             "free",
             "outdoor",
+            "animals",
             "hands-on"
           ],
           "bookingUrl": null,
@@ -184,58 +182,55 @@
           "id": 6
         },
         {
-          "title": "Vauxhall City Farm Easter Activities",
-          "venue": "Vauxhall City Farm",
-          "address": "Vauxhall, SW8 1QR",
-          "dates": "28 March - 12 April 2026",
-          "times": "Varies",
+          "title": "Queen Elizabeth Olympic Park",
+          "venue": "Queen Elizabeth Olympic Park",
+          "address": "London, E20 2ST",
+          "dates": "Ongoing",
+          "times": "Open Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Free Easter hunts and bonnet-making crafts.",
-          "whyItWorks": "Animal-lovers will enjoy meeting the farm's goats, sheep, and smaller animals.",
+          "ageRange": "All Ages",
+          "description": "Explore playgrounds and open spaces",
+          "whyItWorks": "Offers wide spaces, playgrounds, and fountains for toddler enjoyment.",
           "transport": {
-            "fromHackney": "Take the Victoria Line to Vauxhall Station.",
-            "tip": "Check for specific activity times."
+            "fromHackney": "Take the Central Line to Stratford",
+            "tip": "Check out the Tumbling Bay Playground for a climbing adventure."
           },
           "highlights": [
             "free",
-            "indoor",
             "outdoor",
-            "animals",
             "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "1-2 hours",
+          "duration": "2-3 hours",
           "id": 7
         },
         {
-          "title": "Museum of London Docklands",
-          "venue": "Museum of London Docklands",
-          "address": "Canary Wharf, E14 2EE",
-          "dates": "Open Daily",
-          "times": "10:00 - 18:00",
+          "title": "William Morris Gallery",
+          "venue": "William Morris Gallery",
+          "address": "Lloyd Park, Forest Rd, London E17 4PP",
+          "dates": "Ongoing",
+          "times": "Wed-Sun 10:00 - 17:00",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Interactive exhibits on the history of London's waterfront, with a focus on children.",
-          "whyItWorks": "Features hands-on activities, child-friendly explanations, and a soft play area.",
+          "ageRange": "2-5",
+          "description": "Visit Mini Morris: Birthday Band and create a colourful tambourine.",
+          "whyItWorks": "Hands-on activities for toddlers.",
           "transport": {
-            "fromHackney": "Take the DLR to Canary Wharf station.",
-            "tip": "Look for the red signs explaining things in a child-friendly way."
+            "fromHackney": "Take the Overground to Walthamstow Central",
+            "tip": "Check out the park as well as the gallery."
           },
           "highlights": [
             "free",
             "indoor",
-            "hands-on",
-            "sensory"
+            "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-3 hours",
+          "duration": "1-2 hours",
           "id": 8
         }
       ]
@@ -247,25 +242,26 @@
         {
           "title": "Natural History Museum",
           "venue": "Natural History Museum",
-          "address": "South Kensington, SW7 5BD",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:30",
+          "address": "Cromwell Road, London SW7 5BD",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:30 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Explore dinosaurs, animals, and natural wonders in this iconic museum.",
-          "whyItWorks": "Offers interactive exhibits and a dedicated children's area to engage young minds.",
+          "ageRange": "All ages",
+          "description": "Explore dinosaur skeletons, fascinating exhibits, and interactive displays. Easter Family Festival from April 5 to April 20.",
+          "whyItWorks": "Dinosaurs, interactive exhibits, and plenty of space to wander are great for toddlers.",
           "transport": {
-            "fromHackney": "Take the Piccadilly Line to South Kensington station.",
-            "tip": "Visit during off-peak hours to avoid crowds."
+            "fromHackney": "Take the tube: Overground to Highbury & Islington, then Victoria Line to South Kensington.",
+            "tip": "Visit during off-peak hours to avoid crowds. Check out the dinosaur gallery!"
           },
           "highlights": [
             "free",
             "indoor",
-            "hands-on"
+            "hands-on",
+            "animals"
           ],
           "bookingUrl": null,
-          "isHighlight": false,
+          "isHighlight": true,
           "isIndoor": true,
           "duration": "3-4 hours",
           "id": 9
@@ -273,17 +269,17 @@
         {
           "title": "Science Museum",
           "venue": "Science Museum",
-          "address": "South Kensington, SW7 2DD",
-          "dates": "Open Daily",
-          "times": "10:00 - 18:00",
+          "address": "Exhibition Road, London SW7 2DD",
+          "dates": "Ongoing",
+          "times": "10:00 - 18:00 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Discover how the world works with hands-on exhibits and interactive displays.",
-          "whyItWorks": "The Garden in the basement is an interactive space for younger children to explore construction, water, light, and sound through play.",
+          "ageRange": "All ages",
+          "description": "Hands-on exhibits, space exploration gallery, and Wonderlab (paid).",
+          "whyItWorks": "Interactive displays engage toddlers. The Garden is a dedicated space for younger children.",
           "transport": {
-            "fromHackney": "Take the Piccadilly Line to South Kensington station.",
-            "tip": "Book tickets in advance to avoid queues."
+            "fromHackney": "Take the tube: Overground to Highbury & Islington, then Victoria Line to South Kensington.",
+            "tip": "The Garden area is perfect for under 5s. Book Wonderlab tickets in advance."
           },
           "highlights": [
             "free",
@@ -291,110 +287,110 @@
             "hands-on"
           ],
           "bookingUrl": null,
-          "isHighlight": true,
+          "isHighlight": false,
           "isIndoor": true,
           "duration": "3-4 hours",
           "id": 10
         },
         {
-          "title": "Golders Hill Park Zoo",
-          "venue": "Golders Hill Park Zoo",
-          "address": "Golders Hill Park, NW11 7EN",
-          "dates": "Open Daily",
-          "times": "Varies",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "0-5",
-          "description": "A small, free zoo in Hampstead Heath with rare species of birds and animals.",
-          "whyItWorks": "Features wallabies, lemurs, and Scottish wildcats, offering a fun and educational experience for toddlers.",
-          "transport": {
-            "fromHackney": "Take the Overground to Hampstead Heath station, then a bus.",
-            "tip": "Combine with a picnic in Hampstead Heath."
-          },
-          "highlights": [
-            "free",
-            "outdoor",
-            "animals"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "2-3 hours",
-          "id": 11
-        },
-        {
           "title": "Horniman Museum and Gardens",
           "venue": "Horniman Museum and Gardens",
-          "address": "Forest Hill, SE23 3PQ",
-          "dates": "Open Daily (check closures)",
-          "times": "10:00 - 17:30 (check closures)",
-          "price": "Free (some exhibits charge)",
+          "address": "100 London Road, Forest Hill, London SE23 3PQ",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:30 Daily",
+          "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Explore natural history, musical instruments, and anthropology exhibits, plus gardens and a small animal farm.",
-          "whyItWorks": "Offers free workshops for children, beautiful gardens with views over London, farm animals, and a music laboratory.",
+          "ageRange": "All ages",
+          "description": "Natural history museum with aquarium, butterfly house, and gardens. Mini Golf by UrbanCrazy Tickets not on sale",
+          "whyItWorks": "Variety of attractions, gardens, and animals make this a great day out for toddlers.",
           "transport": {
             "fromHackney": "Take the Overground to Forest Hill station.",
-            "tip": "Check the schedule for family events and activities."
+            "tip": "Check out the aquarium and butterfly house!"
           },
           "highlights": [
             "free",
             "outdoor",
             "indoor",
+            "animals"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "3-4 hours",
+          "id": 11
+        },
+        {
+          "title": "Golders Hill Park Zoo",
+          "venue": "Golders Hill Park",
+          "address": "North End Way, London NW3 7HE",
+          "dates": "Ongoing",
+          "times": "Open Daily",
+          "price": "Free",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Small zoo with rare birds and animals, plus a playground.",
+          "whyItWorks": "Free entry, animals, and a playground make this a fun and affordable day out.",
+          "transport": {
+            "fromHackney": "Take the tube: Northern Line to Golders Green station.",
+            "tip": "Combine with a visit to Hampstead Heath."
+          },
+          "highlights": [
+            "free",
+            "outdoor",
             "animals",
             "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": true,
-          "duration": "3-4 hours",
+          "isIndoor": false,
+          "duration": "2-3 hours",
           "id": 12
         },
         {
-          "title": "Battersea Park",
-          "venue": "Battersea Park",
-          "address": "Battersea, SW11 4NJ",
-          "dates": "Open Daily",
-          "times": "08:00 - Dusk",
-          "price": "Free (zoo entry paid separately)",
+          "title": "British Museum",
+          "venue": "British Museum",
+          "address": "Great Russell Street, London WC1B 3DG",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:00 Daily",
+          "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A scenic escape with lush gardens, a boating lake, playgrounds, and a mini zoo.",
-          "whyItWorks": "Features a pagoda, lakeside paths, and child-friendly activities.",
+          "ageRange": "All ages",
+          "description": "Explore world history and culture with fascinating artifacts.",
+          "whyItWorks": "Amazing exhibits spark curiosity. Pick up an Explorer Backpack for added engagement.",
           "transport": {
-            "fromHackney": "Take the Overground to Clapham Junction, then a bus.",
-            "tip": "Pack a picnic to enjoy by the lake."
+            "fromHackney": "Take the tube: Central Line to Holborn or Tottenham Court Road station.",
+            "tip": "Visit the Egyptian exhibit and look for family trails."
           },
           "highlights": [
             "free",
-            "outdoor",
-            "animals"
+            "indoor",
+            "educational"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
-          "duration": "2-3 hours",
+          "isIndoor": true,
+          "duration": "3-4 hours",
           "id": 13
         },
         {
-          "title": "Richmond Park",
-          "venue": "Richmond Park",
-          "address": "Richmond, TW10 5HS",
-          "dates": "Open Daily",
-          "times": "07:30 - Dusk",
+          "title": "Diana Memorial Playground",
+          "venue": "Kensington Gardens",
+          "address": "Broad Walk, London W2 2UH",
+          "dates": "Ongoing",
+          "times": "10:00 - 17:45 Daily",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "Spot wild deer roaming freely in this expansive Royal Park.",
-          "whyItWorks": "An exciting experience for toddlers to connect with nature and wildlife.",
+          "ageRange": "0-12",
+          "description": "A large playground with a Peter Pan theme, including a pirate ship and sensory trail.",
+          "whyItWorks": "Large, themed playground with lots of space to play.",
           "transport": {
-            "fromHackney": "Take the Overground to Richmond station.",
-            "tip": "Bring binoculars for better deer spotting."
+            "fromHackney": "Take the tube: Central Line to Notting Hill Gate or Queensway station.",
+            "tip": "Get there early as it can get crowded."
           },
           "highlights": [
             "free",
             "outdoor",
-            "animals"
+            "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
@@ -403,53 +399,54 @@
           "id": 14
         },
         {
-          "title": "Diana Memorial Playground",
-          "venue": "Kensington Gardens",
-          "address": "Kensington, W2 2UH",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:45",
+          "title": "Changing of the Guard",
+          "venue": "Buckingham Palace",
+          "address": "Buckingham Palace Road, London SW1A 1AA",
+          "dates": "Various days - Check Schedule",
+          "times": "11:00",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A popular park with an enormous Peter Pan-inspired pirate ship and surrounding beach, sensory trail, and teepees.",
-          "whyItWorks": "Offers a variety of play structures and activities to keep toddlers engaged.",
+          "ageRange": "All ages",
+          "description": "A traditional ceremony with marching soldiers and music.",
+          "whyItWorks": "Visually stimulating and a classic London experience.",
           "transport": {
-            "fromHackney": "Take the Central Line to Notting Hill Gate station.",
-            "tip": "Arrive early as it can get crowded."
+            "fromHackney": "Take the tube: Victoria Line to Green Park station.",
+            "tip": "Check the schedule in advance. Arrive early to get a good view."
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "historical"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "2-3 hours",
+          "duration": "1 hour",
           "id": 15
         },
         {
-          "title": "Hampton Court Palace Gardens",
-          "venue": "Hampton Court Palace",
-          "address": "East Molesey, KT8 9AU",
-          "dates": "28 March - 6 April 2026",
-          "times": "Varies",
-          "price": "Included with palace ticket",
+          "title": "Cutty Sark Easter Egg Trail",
+          "venue": "Cutty Sark, Greenwich",
+          "address": "King William Walk, Greenwich, London SE10 9HT",
+          "dates": "April 3-6, 2026",
+          "times": "Various",
+          "price": "Entry Fee Required",
           "isFree": false,
-          "ageRange": "0-5",
-          "description": "Roam through lush gardens, keeping your eyes peeled for elusive Lindt GOLD BUNNY statues peeking out from colourful daffodils.",
-          "whyItWorks": "A chocolate treat awaits at the end!",
+          "ageRange": "5+",
+          "description": "Easter Egg Trail throughout the historic ship",
+          "whyItWorks": "Engaging and historical, with a chocolate treat at the end.",
           "transport": {
-            "fromHackney": "Take the train from Waterloo to Hampton Court.",
-            "tip": "Book in advance."
+            "fromHackney": "Take the DLR to Cutty Sark station",
+            "tip": "Ideal for young explorers and their families."
           },
           "highlights": [
             "outdoor",
+            "historical",
             "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
+          "isIndoor": true,
           "duration": "2-3 hours",
           "id": 16
         }
@@ -460,46 +457,48 @@
       "subtitle": "11 April - 23 May",
       "activities": [
         {
-          "title": "Octonauts Above and Beyond at Kew Gardens",
-          "venue": "Kew Gardens",
-          "address": "Richmond, TW9 3AB",
-          "dates": "11 April - 23 May 2026",
-          "times": "Varies",
-          "price": "Included with Kew Gardens ticket",
+          "title": "Lindt Gold Bunny Hunt at Hampton Court Palace",
+          "venue": "Hampton Court Palace",
+          "address": "Hampton Court, East Molesey, Surrey KT8 9AU",
+          "dates": "March 21 - April 12, 2026",
+          "times": "10:00 - 16:30",
+          "price": "Included with palace admission",
           "isFree": false,
-          "ageRange": "3-6",
-          "description": "Join the Octonauts on an exciting outdoor mission at Kew Gardens. An interactive trail that invites young explorers to complete challenges, discover facts, and learn how to protect our planet.",
-          "whyItWorks": "Combines conservation messaging with interactive play, perfect for burning off energy.",
+          "ageRange": "All ages",
+          "description": "Follow the trail and find Lindt Gold Bunny statues hidden in the gardens.",
+          "whyItWorks": "Outdoor fun, chocolate, and beautiful gardens make this a hit with toddlers.",
           "transport": {
-            "fromHackney": "Take the Overground to Kew Gardens station.",
-            "tip": "Book tickets online in advance."
+            "fromHackney": "Take the train from Liverpool Street Station to Hampton Court Station.",
+            "tip": "Book tickets online in advance, especially for weekends."
           },
           "highlights": [
             "outdoor",
+            "historical",
             "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": true,
           "isIndoor": false,
-          "duration": "2-3 hours",
+          "duration": "3-4 hours",
           "id": 17
         },
         {
-          "title": "Easter Family Activities",
-          "venue": "Tower Bridge",
-          "address": "Tower Bridge Road, SE1 2UP",
-          "dates": "11 April 2026",
-          "times": "10:00 - 16:00",
-          "price": "Included with admission",
+          "title": "Easter Egg-Stravaganza",
+          "venue": "Royal Hospital for Neuro-disability",
+          "address": "West Hill, Putney, London SW15 3SW",
+          "dates": "March 29, 2026",
+          "times": "Various",
+          "price": "Check website",
           "isFree": false,
-          "ageRange": "5-11",
-          "description": "Discover how Victorian engineers and inventors shaped the modern world through making, movement and mechanical marvels.",
-          "whyItWorks": "Drop-in throughout the day.",
+          "ageRange": "All ages",
+          "description": "Live show, egg hunt, easter bonnet parade, face painting, arts and crafts, and treats.",
+          "whyItWorks": "Activities for toddler with lots of variety.",
           "transport": {
-            "fromHackney": "Take the DLR to Tower Gateway station.",
-            "tip": "Book in advance to avoid disappointment."
+            "fromHackney": "Take the District Line to East Putney station, then walk or bus to the hospital.",
+            "tip": "Check the website for timings of different activities."
           },
           "highlights": [
+            "outdoor",
             "indoor",
             "hands-on"
           ],
@@ -510,22 +509,21 @@
           "id": 18
         },
         {
-          "title": "Family Fun",
-          "venue": "Young V&A Museum",
-          "address": "Cambridge Heath Rd, Bethnal Green, London E2 9PA",
-          "dates": "11 April 2026",
-          "times": "Varies",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Get crafty at the origami workshop, learn how to design collages and more.",
-          "whyItWorks": "Offers fun, hands-on experiences.",
+          "title": "Family Fun Day: Spectacular Space!",
+          "venue": "Royal Institution",
+          "address": "21 Albemarle Street, London W1S 4BS",
+          "dates": "Check Website",
+          "times": "Various",
+          "price": "Check Website",
+          "isFree": false,
+          "ageRange": "6-12",
+          "description": "Family Fun Day themed on Space",
+          "whyItWorks": "Space themed day.",
           "transport": {
-            "fromHackney": "Take the Central Line to Bethnal Green station.",
-            "tip": "Check the schedule for family events and activities."
+            "fromHackney": "Take the Central line to Oxford Circus Station",
+            "tip": "Check for specific age-appropriate activities"
           },
           "highlights": [
-            "free",
             "indoor",
             "hands-on"
           ],
@@ -536,132 +534,133 @@
           "id": 19
         },
         {
-          "title": "Easter Family Festival",
-          "venue": "Natural History Museum",
-          "address": "Cromwell Road, London SW7 5BD",
-          "dates": "5 April - 20 April",
-          "times": "Varies",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Free family-friendly activities.",
-          "whyItWorks": "Provides learning, discovery and hands-on fun.",
+          "title": "We're Going on a Bear Hunt",
+          "venue": "Polka Theatre",
+          "address": "240 The Broadway, Wimbledon, London SW19 1SB",
+          "dates": "March 25 - April 12, 2026",
+          "times": "Various",
+          "price": "Check Website",
+          "isFree": false,
+          "ageRange": "3-7",
+          "description": "Musical stage version of Michael Rosen's beloved book",
+          "whyItWorks": "Audience participation, and live music.",
           "transport": {
-            "fromHackney": "Take the Piccadilly Line to South Kensington station.",
-            "tip": "Visit during off-peak hours to avoid crowds."
+            "fromHackney": "Take the tube to Wimbledon",
+            "tip": "Check out the cafe and buggy park."
           },
           "highlights": [
-            "free",
             "indoor",
+            "theatre",
+            "musical"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "1 hour",
+          "id": 20
+        },
+        {
+          "title": "Your Toys",
+          "venue": "Unicorn Theatre",
+          "address": "147 Tooley St, London SE1 2HZ",
+          "dates": "Mar 22 – Apr 12, 2026",
+          "times": "Varies",
+          "price": "Check Website",
+          "isFree": false,
+          "ageRange": "5-9",
+          "description": "Children are invited to bring along a toy to lend for the performance and watch it come to life on stage, plus there's 10 minutes of playtime at the end.",
+          "whyItWorks": "Imaginative playtime and toys.",
+          "transport": {
+            "fromHackney": "Take the tube to London Bridge station",
+            "tip": "Bring your favourite toy."
+          },
+          "highlights": [
+            "indoor",
+            "theatre",
+            "interactive"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "1-2 hours",
+          "id": 21
+        },
+        {
+          "title": "Alice in Wonderland",
+          "venue": "Riverside Studios",
+          "address": "101 Queen Caroline Street, London W6 9BN",
+          "dates": "March 27 – April 12, 2026",
+          "times": "Varies",
+          "price": "From £27",
+          "isFree": false,
+          "ageRange": "5+",
+          "description": "Extraordinary puppets and dazzling stagecraft help bring Lewis Carroll's classic to life.",
+          "whyItWorks": "A classic tale with puppets.",
+          "transport": {
+            "fromHackney": "Take the tube to Hammersmith Station",
+            "tip": "Consider a matinee performance."
+          },
+          "highlights": [
+            "indoor",
+            "theatre",
+            "puppets"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "1-2 hours",
+          "id": 22
+        },
+        {
+          "title": "Easter Quest at Eltham Palace and Gardens",
+          "venue": "Eltham Palace and Gardens",
+          "address": "Court Yard, Eltham, London SE9 5QE",
+          "dates": "March 28 to April 19, 2026",
+          "times": "Various",
+          "price": "Paid, in addition to paid admission",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Embark on a fun-filled adventure quest around the house and gardens. Follow the Easter trail, hunt for eggs and answer questions along the way to earn a delicious chocolate reward.",
+          "whyItWorks": "Outdoor exploration and chocolate rewards.",
+          "transport": {
+            "fromHackney": "Take the train to Eltham station",
+            "tip": "Enjoy the beautiful gardens and historic palace."
+          },
+          "highlights": [
+            "outdoor",
+            "historical",
             "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
           "duration": "2-3 hours",
-          "id": 20
-        },
-        {
-          "title": "Easter Events",
-          "venue": "Hampton Court Palace",
-          "address": "Hampton Court, East Molesey KT8 9AU",
-          "dates": "21 March - 12 April 2026",
-          "times": "Varies",
-          "price": "Varies",
-          "isFree": false,
-          "ageRange": "All ages",
-          "description": "Easter-themed egg hunts and seasonal workshops. Explore historic rooms, gardens, and the palace grounds while participating in fun activities for children.",
-          "whyItWorks": "The combination of royal history, spring flowers, and family-friendly events makes this an ideal destination.",
-          "transport": {
-            "fromHackney": "Take the train from Waterloo to Hampton Court.",
-            "tip": "Check the website for Easter events."
-          },
-          "highlights": [
-            "outdoor",
-            "hands-on"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "2-3 hours",
-          "id": 21
-        },
-        {
-          "title": "Easter Eggsplorers",
-          "venue": "Hobbledown Heath",
-          "address": "Hounslow, West London",
-          "dates": "28th March - 12th April 2026",
-          "times": "Varies",
-          "price": "£22.50 per person",
-          "isFree": false,
-          "ageRange": "All ages",
-          "description": "Line-up of activities including Hunt the Giant Easter Egg Trail, Meet the Easter Bunny, Indoor Playbarn, Marshmallow Toasting, Bubble Play and Zoo and Farm Animals.",
-          "whyItWorks": "Lots of choice with indoor and outdoor activities.",
-          "transport": {
-            "fromHackney": "Take the Piccadilly Line to Hounslow West.",
-            "tip": "Allow 4-5 hours to explore everything."
-          },
-          "highlights": [
-            "outdoor",
-            "indoor",
-            "hands-on",
-            "animals"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "4-5 hours",
-          "id": 22
-        },
-        {
-          "title": "Spring Family Fun",
-          "venue": "Southbank Centre",
-          "address": "South Bank, SE1 8XX",
-          "dates": "1 April – 31 May 2026",
-          "times": "Varies",
-          "price": "Some paid activities and some free",
-          "isFree": false,
-          "ageRange": "0-11",
-          "description": "A festival of fun and creativity for families at the Southbank Centre includes super shows, musical adventures, amazing puppetry and lots of free fun in the Easter break. Also worth visiting is the REPLAY: A Limitless Recycled Playground – a play space made out of repurposed materials (£7.50).",
-          "whyItWorks": "Many free activities and central location.",
-          "transport": {
-            "fromHackney": "Take the Jubilee Line to Waterloo Station.",
-            "tip": "Check the website for the full schedule."
-          },
-          "highlights": [
-            "indoor",
-            "hands-on"
-          ],
-          "bookingUrl": null,
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "2-3 hours",
           "id": 23
         },
         {
-          "title": "Easter at London Zoo",
-          "venue": "London Zoo",
-          "address": "Regent's Park, NW1 4RY",
-          "dates": "Varies",
-          "times": "Varies",
-          "price": "Varies",
+          "title": "Tower Bridge Family Activities",
+          "venue": "Tower Bridge",
+          "address": "Tower Bridge Road, London SE1 2UP",
+          "dates": "Tuesday 31 March, Tuesday 7 April and Saturday 11 April 2026",
+          "times": "10:00 - 16:00",
+          "price": "Included in your visit to Tower Bridge",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "London Zoo's Zoonormous Easter Egg Hunt. Kids are invited to explore London Zoo on a special Easter egg hunt, searching for six giant Easter eggs hidden around the park.",
-          "whyItWorks": "Explore a variety of incredible wildlife.",
+          "description": "Discover phenakistoscopes, the original animations that came before cartoons and GIFs. Create your own phenakistoscope of another Victorian icon – Tower Bridge! ",
+          "whyItWorks": "Combines making, movement and mechanical marvels, giving children the chance to discover how Victorian engineers and inventors shaped the modern world, all while exploring the Bridge from top to bottom.",
           "transport": {
-            "fromHackney": "Take the Overground to Camden Town, then a bus.",
-            "tip": "Book tickets online in advance."
+            "fromHackney": "Take the tube to Tower Hill station",
+            "tip": "Drop-in throughout the day."
           },
           "highlights": [
-            "outdoor",
-            "hands-on",
-            "animals"
+            "indoor",
+            "historical",
+            "hands-on"
           ],
           "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
-          "duration": "3-4 hours",
+          "isIndoor": true,
+          "duration": "2-3 hours",
           "id": 24
         }
       ]

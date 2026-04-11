@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-10T23:48:24.547Z",
+    "generatedAt": "2026-04-11T11:48:24.683Z",
     "weekendDates": "11 Apr - 12 Apr 2026",
     "weather": {
       "saturday": {
-        "temp": 9,
-        "description": "light rain",
-        "icon": "Rain",
-        "rain": 0.1
+        "temp": 11,
+        "description": "overcast clouds",
+        "icon": "Clouds",
+        "rain": 0
       },
       "sunday": {
-        "temp": 13,
+        "temp": 14,
         "description": "light rain",
         "icon": "Rain",
-        "rain": 0.33
+        "rain": 0.19
       },
-      "recommendation": "indoor",
-      "summary": "Saturday: 9°C, light rain. Sunday: 13°C, light rain"
+      "recommendation": "mixed",
+      "summary": "Saturday: 11°C, overcast clouds. Sunday: 14°C, light rain"
     },
-    "greeting": "This weekend offers a mix of indoor fun perfect for the drizzly weather! I've found some great options for your little one, from creative workshops at the Southbank Centre to exploring the Young V&A and enjoying puppet shows. Let's make the most of the weekend with these engaging and enriching activities!"
+    "greeting": "This weekend in London offers a variety of activities suitable for a 3-year-old, from exploring dinosaurs at Crystal Palace Park to enjoying hands-on experiences at the Science Museum. With a mix of indoor and outdoor options, you can plan for any weather. Don't miss the free events at museums and parks!"
   },
   "sections": {
     "local": {
@@ -26,206 +26,212 @@
       "subtitle": "Hackney, Stratford & East London",
       "activities": [
         {
-          "title": "Young V&A",
-          "venue": "Young V&A",
-          "address": "Bethnal Green, E2 9PA",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:45",
+          "title": "Library Club at the Hackney Showroom",
+          "venue": "Hackney Showroom",
+          "address": "Hackney, E8",
+          "dates": "Tuesdays (term time)",
+          "times": "3:30pm-5:30pm",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-14",
-          "description": "Formerly the V&A Museum of Childhood, this newly renovated museum is designed to spark creativity in children. Explore collections of toys, games and design with hands-on exhibits and activities.",
-          "whyItWorks": "Offers sensory play areas and interactive exhibits perfect for toddlers. Plenty of space to move around and explore. Free entry is a bonus!",
+          "ageRange": "0-13",
+          "description": "Reading corner and diverse book-pairing service.",
+          "whyItWorks": "A relaxed environment for toddlers to explore books and stories. Drop-in so no need to book.",
           "transport": {
-            "fromHackney": "Take the Central Line from Bethnal Green station. It's a short walk from the station to the museum.",
-            "tip": "Check the museum's website for daily drop-in activities."
+            "fromHackney": "Bus or Overground to Hackney Downs",
+            "tip": "Check term times before visiting."
           },
           "highlights": [
             "free",
             "indoor",
-            "hands-on"
+            "books"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": true,
           "isIndoor": true,
-          "duration": "2-3 hours",
+          "duration": "2 hours",
           "id": 1
         },
         {
-          "title": "Queen Elizabeth Olympic Park",
-          "venue": "Queen Elizabeth Olympic Park",
-          "address": "Stratford, E20 2ST",
-          "dates": "Open Daily",
-          "times": "Varies",
-          "price": "Free (some activities may cost)",
+          "title": "Discover Children's Story Centre",
+          "venue": "Discover Children's Story Centre",
+          "address": "Stratford, E15 4QZ",
+          "dates": "Ongoing",
+          "times": "Various",
+          "price": "£10",
+          "isFree": false,
+          "ageRange": "0-11",
+          "description": "Immersive play spaces known as Story Worlds and Story Garden. Baby Storytelling, crafts and singalong.",
+          "whyItWorks": "Interactive and engaging environment for young children. Plenty of space to move and explore.",
+          "transport": {
+            "fromHackney": "Central Line to Stratford",
+            "tip": "Book tickets in advance."
+          },
+          "highlights": [
+            "indoor",
+            "hands-on",
+            "interactive",
+            "storytelling"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-3 hours",
+          "id": 2
+        },
+        {
+          "title": "Victoria Park",
+          "venue": "Victoria Park",
+          "address": "East London, E3 5TB",
+          "dates": "Ongoing",
+          "times": "All day",
+          "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore the vast parklands, playgrounds and walking trails. Check out the Tumbling Bay playground for natural play or the Pleasure Gardens fountains. Some areas may have specific opening times.",
-          "whyItWorks": "Offers space to run around, various playgrounds suitable for different ages, and sensory experiences with water features. Great for burning energy.",
+          "description": "East London's most famous park with playgrounds and green spaces.",
+          "whyItWorks": "Plenty of space to run around, playgrounds, and a relaxed atmosphere. Great for a picnic.",
           "transport": {
-            "fromHackney": "Take the Overground to Stratford. The park is a short walk from the station.",
-            "tip": "Check the park's website for events happening this weekend."
+            "fromHackney": "Bus or Overground to Hackney Wick",
+            "tip": "Check for specific events on their Facebook page."
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "playground"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "2-4 hours",
-          "id": 2
-        },
-        {
-          "title": "Hackney City Farm",
-          "venue": "Hackney City Farm",
-          "address": "Hackney, E2 8QA",
-          "dates": "Open Daily",
-          "times": "10:00 - 16:30",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "A small but charming city farm with a variety of animals, including sheep, goats, chickens and rabbits. There is also a garden and an excellent on-site Italian cafe.",
-          "whyItWorks": "Offers a chance to see and interact with animals, which is great for toddlers. Small and manageable size. The cafe provides a good option for lunch or a snack.",
-          "transport": {
-            "fromHackney": "Walk or cycle. It's centrally located in Hackney.",
-            "tip": "Check for special events or feeding times."
-          },
-          "highlights": [
-            "free",
-            "animals"
-          ],
-          "bookingUrl": "null",
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "1-2 hours",
+          "duration": "Flexible",
           "id": 3
         },
         {
-          "title": "Museum of the Home",
-          "venue": "Museum of the Home",
-          "address": "Hoxton, E2 8EA",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:00",
+          "title": "Young V&A",
+          "venue": "Young V&A",
+          "address": "Bethnal Green, E2 9PA",
+          "dates": "Ongoing",
+          "times": "10:00-17:45",
           "price": "Free",
           "isFree": true,
-          "ageRange": "All ages",
-          "description": "Step into historical homes through the ages! See how people lived through different eras, with a beautiful enclosed garden. Pick up an activity sheet for kids at the front desk.",
-          "whyItWorks": "Provides a glimpse into different eras with interesting room setups. The garden offers a nice outdoor space.",
+          "ageRange": "0-14",
+          "description": "Interactive galleries designed for children, including Design, Imagine and Play. Mini Museum for under 2s.",
+          "whyItWorks": "Hands-on exhibits and dedicated spaces for younger children. Caters specifically to kids' interests.",
           "transport": {
-            "fromHackney": "Take a bus or Overground to Hoxton. It's a short walk from there.",
-            "tip": "Check for family events or workshops on their website."
+            "fromHackney": "Central Line to Bethnal Green",
+            "tip": "Check for special events and workshops."
           },
           "highlights": [
             "free",
-            "indoor"
+            "indoor",
+            "interactive",
+            "hands-on"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "1-2 hours",
+          "duration": "2-3 hours",
           "id": 4
         },
         {
           "title": "Biodiversity Playground",
-          "venue": "Queen Elizabeth Olympic Park",
-          "address": "Stratford, E20 2ST",
-          "dates": "Open Daily",
-          "times": "Varies",
+          "venue": "Biodiversity Playground",
+          "address": "Stratford, E20",
+          "dates": "Ongoing",
+          "times": "All day",
           "price": "Free",
           "isFree": true,
-          "ageRange": "0-5",
-          "description": "A wooden playground with a pond theme, perfect for toddlers. Located within the Queen Elizabeth Olympic Park.",
-          "whyItWorks": "Designed specifically for toddlers, with a safe and engaging play environment.",
+          "ageRange": "Toddlers",
+          "description": "Small, beautifully designed wooden playground with a pond theme.",
+          "whyItWorks": "Specifically designed for toddlers, offering a safe and engaging play space.",
           "transport": {
-            "fromHackney": "Take the Overground to Stratford. The park is a short walk from the station.",
-            "tip": "Combine with a visit to the larger playgrounds in the park."
+            "fromHackney": "Central Line to Stratford",
+            "tip": "Located near the Olympic Park."
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "playground"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
           "duration": "1-2 hours",
           "id": 5
         },
         {
-          "title": "Spitalfields City Farm",
-          "venue": "Spitalfields City Farm",
-          "address": "Spitalfields, E1 5AR",
-          "dates": "Open Daily",
-          "times": "10:00-16:30",
+          "title": "The Museum of the Home",
+          "venue": "The Museum of the Home",
+          "address": "Hoxton, E2 8EA",
+          "dates": "Ongoing",
+          "times": "10:00-17:00",
           "price": "Free",
           "isFree": true,
-          "ageRange": "All Ages",
-          "description": "One of the oldest city farms in London, home to a range of animals and gardens.",
-          "whyItWorks": "Small and manageable for toddlers, offering a chance to see farm animals and learn about gardening.",
+          "ageRange": "All ages",
+          "description": "Explore the history of home and domestic life.",
+          "whyItWorks": "While not entirely geared towards toddlers, the museum offers engaging exhibits and gardens to explore. ",
           "transport": {
-            "fromHackney": "Take a bus or Overground to Shoreditch High Street. It's a short walk from there.",
-            "tip": "Check for special events or workshops."
+            "fromHackney": "Bus or Overground to Hoxton",
+            "tip": "Check out the gardens for a relaxing break."
           },
           "highlights": [
             "free",
-            "animals"
+            "indoor",
+            "gardens"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
-          "duration": "1-2 hours",
+          "isIndoor": true,
+          "duration": "2 hours",
           "id": 6
         },
         {
-          "title": "Hackney Downs Adventure Playground",
-          "venue": "Hackney Downs Adventure Playground",
-          "address": "Hackney Downs, E5 8DN",
-          "dates": "Check website for opening times",
-          "times": "Check website for opening times",
+          "title": "Discover Greenwich Peninsula",
+          "venue": "Greenwich Peninsula",
+          "address": "Greenwich, SE10",
+          "dates": "Ongoing",
+          "times": "All day",
           "price": "Free",
           "isFree": true,
-          "ageRange": "6-16 (Under 5's with supervision)",
-          "description": "A staffed adventure playground with a range of play equipment and activities.",
-          "whyItWorks": "Offers a safe and engaging environment for children to play and explore, especially with adult supervision for younger children.",
+          "ageRange": "All ages",
+          "description": "Stroll along the colorful art trail, immerse yourself in nature at the Ecology Park.",
+          "whyItWorks": "Provides outdoor space to explore with interesting sights, perfect for toddlers.",
           "transport": {
-            "fromHackney": "Walk or cycle.",
-            "tip": "Check the website for opening times and any specific age restrictions."
+            "fromHackney": "Jubilee Line to North Greenwich",
+            "tip": "Enjoy tasty food in the Canteen Food Hall and Bar."
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "art"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
-          "duration": "1-2 hours",
+          "duration": "2-3 hours",
           "id": 7
         },
         {
-          "title": "Tramshed",
-          "venue": "Tramshed",
-          "address": "Woolwich, SE18",
-          "dates": "Check website for events",
-          "times": "Varies",
-          "price": "Varies",
+          "title": "Half Moon Young People's Theatre",
+          "venue": "Half Moon Theatre",
+          "address": "Limehouse, E14",
+          "dates": "Check website for show listings",
+          "times": "Various",
+          "price": "£ varies",
           "isFree": false,
-          "ageRange": "All ages",
-          "description": "A theatre and arts venue offering a range of family-friendly shows and activities.",
-          "whyItWorks": "Offers a variety of performances suitable for young children, providing a cultural experience.",
+          "ageRange": "varies",
+          "description": "Dedicated young people's theatre with shows and workshops.",
+          "whyItWorks": "Performances specifically designed for children, providing an engaging introduction to theatre.",
           "transport": {
-            "fromHackney": "Take the DLR to Woolwich.",
-            "tip": "Check the website for the schedule and book tickets in advance."
+            "fromHackney": "DLR to Limehouse",
+            "tip": "Book tickets in advance as shows are popular."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "theatre"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "Varies",
+          "duration": "1-2 hours",
           "id": 8
         }
       ]
@@ -235,185 +241,216 @@
       "subtitle": "Worth the journey",
       "activities": [
         {
-          "title": "Southbank Centre",
-          "venue": "Southbank Centre",
-          "address": "South Bank, SE1 9TG",
-          "dates": "This Weekend",
-          "times": "Varies",
-          "price": "Free (some events ticketed)",
+          "title": "Natural History Museum",
+          "venue": "Natural History Museum",
+          "address": "South Kensington, SW7 5BD",
+          "dates": "Ongoing",
+          "times": "10:00-17:30",
+          "price": "Free",
           "isFree": true,
-          "ageRange": "0-12",
-          "description": "A riverside hub of arts, fun, and food. Enjoy free installations, creative workshops, and open spaces to roam. Check for family-friendly events and performances.",
-          "whyItWorks": "Lots of open space for scooting/running, plus family-friendly activities and performances. Many free options.",
+          "ageRange": "All ages",
+          "description": "Explore dinosaurs, mammals, and other fascinating exhibits. Easter Family Festival with drop-in talks and workshops.",
+          "whyItWorks": "Large, open spaces for toddlers to roam. Dinosaurs are always a hit! Free entry makes it accessible.",
           "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to Embankment. Short walk to Southbank Centre.",
-            "tip": "Check the website for the weekend's schedule of free events."
+            "fromHackney": "Tube: Overground to Liverpool Street, then Circle Line to South Kensington",
+            "tip": "Arrive early to avoid crowds."
           },
           "highlights": [
             "free",
             "indoor",
-            "hands-on"
+            "dinosaurs",
+            "museum"
           ],
-          "bookingUrl": "https://www.southbankcentre.co.uk/",
+          "bookingUrl": null,
           "isHighlight": true,
           "isIndoor": true,
-          "duration": "2-4 hours",
+          "duration": "2-3 hours",
           "id": 9
-        },
-        {
-          "title": "Natural History Museum",
-          "venue": "Natural History Museum",
-          "address": "South Kensington, SW7 5BD",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:50",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "All ages",
-          "description": "Explore dinosaur skeletons, a blue whale model, and interactive exhibits. A classic London museum experience for families.",
-          "whyItWorks": "Dinosaurs are a hit with toddlers! Lots to see and discover, with free admission.",
-          "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to South Kensington.",
-            "tip": "Arrive early to avoid long queues, especially on weekends."
-          },
-          "highlights": [
-            "free",
-            "indoor"
-          ],
-          "bookingUrl": "null",
-          "isHighlight": false,
-          "isIndoor": true,
-          "duration": "2-4 hours",
-          "id": 10
         },
         {
           "title": "Science Museum",
           "venue": "Science Museum",
           "address": "South Kensington, SW7 2DD",
-          "dates": "Open Daily",
-          "times": "10:00 - 18:00",
-          "price": "Free (some exhibits require tickets)",
+          "dates": "Ongoing",
+          "times": "10:00-18:00",
+          "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Discover interactive exhibits, space exploration galleries, and flight simulators. Great for hands-on learning.",
-          "whyItWorks": "Offers lots of interactive exhibits to engage toddlers. Wonderlab is a great hands-on experience (ticketed).",
+          "description": "Interactive exhibits for kids to discover how the world works. Wonderlab offers hands-on experiences.",
+          "whyItWorks": "The Garden in the basement is perfect for toddlers, with water, light and sound exhibits. Free entry.",
           "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to South Kensington.",
-            "tip": "Book tickets for Wonderlab in advance."
+            "fromHackney": "Tube: Overground to Liverpool Street, then Circle Line to South Kensington",
+            "tip": "Book Wonderlab tickets in advance."
           },
           "highlights": [
             "free",
             "indoor",
+            "interactive",
             "hands-on"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-4 hours",
-          "id": 11
+          "duration": "2-3 hours",
+          "id": 10
         },
         {
-          "title": "British Museum",
-          "venue": "British Museum",
-          "address": "Great Russell Street, WC1B 3DG",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:00",
+          "title": "V&A Museum",
+          "venue": "Victoria and Albert Museum",
+          "address": "South Kensington, SW7 2RL",
+          "dates": "Ongoing",
+          "times": "10:00-17:45",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Explore Egyptian mummies, Greek sculptures, and ancient artifacts. A cultural and educational experience for the whole family.",
-          "whyItWorks": "Offers a chance to see fascinating artifacts from around the world. Activity sheets and Explorer Backpacks available at the family desk.",
+          "description": "Explore art and design from around the world. Daily free activities and events for children.",
+          "whyItWorks": "Backpacks of activities for kids to explore the museum. Large collections to spark curiosity.",
           "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to Oxford Circus, then the Central Line to Holborn or Tottenham Court Road.",
-            "tip": "Book a free timed ticket in advance to avoid queues."
+            "fromHackney": "Tube: Overground to Liverpool Street, then Circle Line to South Kensington",
+            "tip": "Check for family trails and hands-on discovery areas."
           },
           "highlights": [
             "free",
-            "indoor"
+            "indoor",
+            "art"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-4 hours",
-          "id": 12
+          "duration": "2-3 hours",
+          "id": 11
         },
         {
           "title": "Golders Hill Park Zoo",
           "venue": "Golders Hill Park",
-          "address": "Golders Green, NW11 7QP",
-          "dates": "Open Daily",
-          "times": "Varies",
+          "address": "Golders Green, NW11 7QL",
+          "dates": "Ongoing",
+          "times": "All day",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "A small zoo in Hampstead Heath with rare species of birds and animals, including wallabies and lemurs. The park also has swimming ponds and a lido.",
-          "whyItWorks": "Free entry and a variety of animals to see. A good option for a shorter outing.",
+          "description": "Small zoo with rare species of birds and animals, including wallabies and lemurs.",
+          "whyItWorks": "Small and manageable for toddlers. Free entry and family-friendly things to do in the area.",
           "transport": {
-            "fromHackney": "Take the Overground to Gospel Oak, then the Overground to Hampstead Heath, then a bus to Golders Green.",
-            "tip": "Combine with a picnic in the park."
-          },
-          "highlights": [
-            "free",
-            "animals",
-            "outdoor"
-          ],
-          "bookingUrl": "null",
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "1-2 hours",
-          "id": 13
-        },
-        {
-          "title": "Diana Memorial Playground",
-          "venue": "Kensington Gardens",
-          "address": "Kensington Gardens, W2 2UH",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:45",
-          "price": "Free",
-          "isFree": true,
-          "ageRange": "Under 12",
-          "description": "A popular playground with a Peter Pan-inspired pirate ship and surrounding beach, a sensory trail, and teepees.",
-          "whyItWorks": "Offers a variety of play areas to suit different ages and interests. The pirate ship is a big draw for toddlers.",
-          "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to Notting Hill Gate.",
-            "tip": "Can get very busy, especially on weekends."
+            "fromHackney": "Tube: Northern Line to Golders Green, then a short bus ride",
+            "tip": "Combine with a visit to Hampstead Heath."
           },
           "highlights": [
             "free",
             "outdoor",
-            "hands-on"
+            "animals"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
           "duration": "1-2 hours",
-          "id": 14
+          "id": 12
         },
         {
-          "title": "Horniman Museum and Gardens",
-          "venue": "Horniman Museum and Gardens",
-          "address": "Forest Hill, SE23 3PQ",
-          "dates": "Open Daily",
-          "times": "10:00 - 17:30",
+          "title": "Crystal Palace Park Dinosaurs",
+          "venue": "Crystal Palace Park",
+          "address": "Crystal Palace, SE19 2GA",
+          "dates": "Ongoing",
+          "times": "All day",
           "price": "Free",
           "isFree": true,
           "ageRange": "All ages",
-          "description": "Features natural history exhibits, an aquarium, and beautiful gardens with views over London. There are also farm animals and a music laboratory for children.",
-          "whyItWorks": "Offers a mix of indoor and outdoor activities, with animals, gardens, and interactive exhibits. Perfect for a full day out.",
+          "description": "Explore the dinosaur sculptures and enjoy the playground and maze.",
+          "whyItWorks": "Dinosaurs! Plus a playground and open space for running around. Great for a picnic.",
           "transport": {
-            "fromHackney": "Take the Overground to Forest Hill.",
-            "tip": "Check for special events or workshops on their website."
+            "fromHackney": "Overground to Crystal Palace",
+            "tip": "Visit the maze and lakes."
+          },
+          "highlights": [
+            "free",
+            "outdoor",
+            "dinosaurs",
+            "playground"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": false,
+          "duration": "2-3 hours",
+          "id": 13
+        },
+        {
+          "title": "National Maritime Museum",
+          "venue": "National Maritime Museum",
+          "address": "Greenwich, SE10 9NF",
+          "dates": "Ongoing",
+          "times": "10:00-17:00",
+          "price": "Free",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Explore sea travel, exploration, trade and naval history. All Hands Children's Gallery for under 8s.",
+          "whyItWorks": "Child-friendly activities and a dedicated play area for younger children. Free entry.",
+          "transport": {
+            "fromHackney": "DLR to Greenwich",
+            "tip": "Check out the character encounters on Saturdays."
+          },
+          "highlights": [
+            "free",
+            "indoor",
+            "interactive"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-3 hours",
+          "id": 14
+        },
+        {
+          "title": "Sky Garden",
+          "venue": "Sky Garden",
+          "address": "Fenchurch Street, EC3M 8AF",
+          "dates": "Ongoing",
+          "times": "Various",
+          "price": "Free",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "London's highest public garden with 360° views of the city.",
+          "whyItWorks": "Amazing views and greenery to explore. A unique experience for toddlers.",
+          "transport": {
+            "fromHackney": "Tube to Monument",
+            "tip": "Book in advance as spaces are limited."
           },
           "highlights": [
             "free",
             "indoor",
             "outdoor",
-            "animals"
+            "views"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "2-4 hours",
+          "duration": "1-2 hours",
           "id": 15
+        },
+        {
+          "title": "Museum of London Docklands",
+          "venue": "Museum of London Docklands",
+          "address": "Canary Wharf, E14 2YD",
+          "dates": "Ongoing",
+          "times": "10:00-17:00",
+          "price": "Free",
+          "isFree": true,
+          "ageRange": "All ages",
+          "description": "Explore London's history as a great port. Mudlarks soft play area for children under 8.",
+          "whyItWorks": "Dedicated soft play area for toddlers. Engaging exhibits for older children and adults.",
+          "transport": {
+            "fromHackney": "DLR to West India Quay",
+            "tip": "Check for family trails around the museum."
+          },
+          "highlights": [
+            "free",
+            "indoor",
+            "soft play"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "2-3 hours",
+          "id": 16
         }
       ]
     },
@@ -422,203 +459,212 @@
       "subtitle": "25 April - 6 June",
       "activities": [
         {
-          "title": "The Lion Inside",
-          "venue": "Unicorn Theatre",
-          "address": "Southwark, SE1 2HS",
-          "dates": "Various Dates",
-          "times": "Varies",
-          "price": "Varies",
-          "isFree": false,
-          "ageRange": "3-7",
-          "description": "A stage adaptation of the popular children's book about courage and confidence.",
-          "whyItWorks": "Engaging story and suitable for young children.",
-          "transport": {
-            "fromHackney": "Take the Overground to Shoreditch High Street, then the tube to London Bridge.",
-            "tip": "Book tickets in advance."
-          },
-          "highlights": [
-            "indoor"
-          ],
-          "bookingUrl": "null",
-          "isHighlight": false,
-          "isIndoor": true,
-          "duration": "Varies",
-          "id": 16
-        },
-        {
-          "title": "REPLAY: A Limitless Recycled Playground",
-          "venue": "Southbank Centre",
-          "address": "South Bank, SE1 9TG",
-          "dates": "Until 31st May",
-          "times": "Varies",
-          "price": "£7.50",
+          "title": "Voyage to the Deep",
+          "venue": "Horniman Museum and Gardens",
+          "address": "Forest Hill, SE23 3PQ",
+          "dates": "Until 11 Jul 2026",
+          "times": "10:00-17:30",
+          "price": "£ varies",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "A play space made out of repurposed materials, offering a unique and sustainable play experience.",
-          "whyItWorks": "Encourages creativity and imaginative play.",
+          "description": "An immersive exhibition exploring the wonders of the ocean depths.",
+          "whyItWorks": "Sensory experience for toddlers. The Horniman also has gardens and an aquarium.",
           "transport": {
-            "fromHackney": "Take the Overground to Highbury & Islington, then the Victoria Line to Embankment. Short walk to Southbank Centre.",
-            "tip": "Book tickets in advance."
+            "fromHackney": "Overground to Forest Hill",
+            "tip": "Check for family events and workshops."
           },
           "highlights": [
             "indoor",
-            "hands-on"
+            "sensory",
+            "aquarium"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": true,
           "isIndoor": true,
-          "duration": "Varies",
+          "duration": "1-2 hours",
           "id": 17
         },
         {
-          "title": "Easter Eggsplorers at Hobbledown Heath",
-          "venue": "Hobbledown Heath",
-          "address": "Hounslow, West London",
-          "dates": "28th March – 12th April 2026",
-          "times": "Varies",
-          "price": "£22.50 online",
+          "title": "I Want My Hat Back Trilogy",
+          "venue": "Little Angel Studios",
+          "address": "Islington, N1 2DN",
+          "dates": "Check website",
+          "times": "Various",
+          "price": "£13.50",
           "isFree": false,
-          "ageRange": "All ages",
-          "description": "Easter Egg hunt, farm animals, indoor playbarn, outdoor adventure play villages.",
-          "whyItWorks": "Wide range of activities to keep children entertained for hours.",
+          "ageRange": "3-6",
+          "description": "Jon Klassen's beloved books come alive on stage.",
+          "whyItWorks": "Puppet show specifically designed for young children. Short and engaging.",
           "transport": {
-            "fromHackney": "Tube and train to Hounslow.",
-            "tip": "Book tickets online in advance."
-          },
-          "highlights": [
-            "outdoor",
-            "indoor",
-            "animals",
-            "hands-on"
-          ],
-          "bookingUrl": "null",
-          "isHighlight": false,
-          "isIndoor": false,
-          "duration": "4-5 hours",
-          "id": 18
-        },
-        {
-          "title": "Lindt Gold Bunny Hunt at Hampton Court Palace",
-          "venue": "Hampton Court Palace",
-          "address": "Hampton Court",
-          "dates": "21st March to 12th April 2026",
-          "times": "Varies",
-          "price": "Included with palace admission",
-          "isFree": false,
-          "ageRange": "3-12",
-          "description": "Roam around the gardens and find hidden Lindt Gold Bunny statues to win a chocolate treat.",
-          "whyItWorks": "Combines outdoor exploration with a fun Easter-themed activity.",
-          "transport": {
-            "fromHackney": "Train to Hampton Court.",
+            "fromHackney": "Bus to Angel",
             "tip": "Book tickets in advance."
           },
           "highlights": [
-            "outdoor",
-            "hands-on"
+            "indoor",
+            "theatre",
+            "puppets"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "1 hour",
+          "id": 18
+        },
+        {
+          "title": "Kew Gardens – Sounds of Blossom",
+          "venue": "Kew Gardens",
+          "address": "Richmond, TW9",
+          "dates": "Until 6 April 2026",
+          "times": "Various",
+          "price": "£15 adult (children cheaper / under-4s free)",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Explore the blossoming royal parks.",
+          "whyItWorks": "Outdoor walking, fresh air, space to run.",
+          "transport": {
+            "fromHackney": "Tube and Overground to Kew Gardens",
+            "tip": "Head for Cherry Walk and Magnolia Walk, then finish near The Orangery café."
+          },
+          "highlights": [
+            "outdoor",
+            "gardens"
+          ],
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": false,
           "duration": "2-3 hours",
           "id": 19
         },
         {
-          "title": "Zoonormous Egg Hunt at London Zoo",
-          "venue": "London Zoo",
-          "address": "Regent's Park",
-          "dates": "March/April 2026",
-          "times": "Varies",
-          "price": "Included in zoo entry",
+          "title": "Easter Eggsplorers at Hobbledown Heath",
+          "venue": "Hobbledown Heath",
+          "address": "Hounslow, West London",
+          "dates": "28th March – 12th April 2026",
+          "times": "Various",
+          "price": "£22.50 per person",
           "isFree": false,
           "ageRange": "All ages",
-          "description": "Wander past giraffes, lions, monkeys and more incredible wildlife as you search for hidden eggs on a special Easter egg hunt.",
-          "whyItWorks": "Animal encounters combined with an Easter egg hunt.",
+          "description": "Easter Egg trail, indoor and outdoor play, and animals.",
+          "whyItWorks": "Combination of animals, play, and special events.",
           "transport": {
-            "fromHackney": "Tube to Regent's Park.",
-            "tip": "Book tickets in advance."
+            "fromHackney": "Tube and train to Hounslow",
+            "tip": "Most families spend 4–5 hours."
           },
           "highlights": [
             "outdoor",
+            "indoor",
             "animals",
-            "hands-on"
+            "Easter"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
-          "isIndoor": false,
-          "duration": "3-4 hours",
+          "isIndoor": true,
+          "duration": "4-5 hours",
           "id": 20
         },
         {
-          "title": "Family Sundays at the Royal Opera House",
-          "venue": "Royal Opera House",
-          "address": "Covent Garden",
-          "dates": "Until 14th June",
-          "times": "Varies",
-          "price": "Varies",
+          "title": "The Lion King",
+          "venue": "Lyceum Theatre",
+          "address": "West End",
+          "dates": "Ongoing",
+          "times": "Various",
+          "price": "From £44",
           "isFree": false,
-          "ageRange": "3-10",
-          "description": "Fun, relaxed and creative sessions perfect for families with children aged 3 to 10.",
-          "whyItWorks": "Introduces children to the world of opera in a fun and accessible way.",
+          "ageRange": "All ages",
+          "description": "Musical.",
+          "whyItWorks": "Visually stunning, but maybe too long for a 3 year old.",
           "transport": {
-            "fromHackney": "Tube to Covent Garden.",
+            "fromHackney": "Tube to Temple",
             "tip": "Book tickets in advance."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "theatre",
+            "musical"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "Varies",
+          "duration": "2.5 hours",
           "id": 21
         },
         {
           "title": "Paddington The Musical",
           "venue": "Savoy Theatre",
-          "address": "Strand, London",
+          "address": "Strand",
           "dates": "Until 25 May 2026",
-          "times": "Varies",
-          "price": "From £28",
+          "times": "Various",
+          "price": "£ Varies",
           "isFree": false,
-          "ageRange": "4+",
-          "description": "A musical adaptation of the beloved Paddington Bear stories.",
-          "whyItWorks": "Charming story and engaging music make it suitable for young children.",
+          "ageRange": "All ages",
+          "description": "Musical.",
+          "whyItWorks": "Popular children's character.",
           "transport": {
-            "fromHackney": "Tube to Covent Garden or Charing Cross.",
-            "tip": "Book tickets in advance."
+            "fromHackney": "Tube to Covent Garden",
+            "tip": "Pack marmalade sandwiches."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "theatre",
+            "musical"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "Varies",
+          "duration": "2 hours",
           "id": 22
         },
         {
-          "title": "A Midsummer Night's Dream",
-          "venue": "Unicorn Theatre",
-          "address": "Southwark, London",
-          "dates": "21 Mar - 10 May 2026",
-          "times": "Varies",
-          "price": "Varies",
+          "title": "Alice in Wonderland",
+          "venue": "Riverside Studios",
+          "address": "Hammersmith",
+          "dates": "27 March – 12 April 2026",
+          "times": "Various",
+          "price": "From £25",
           "isFree": false,
-          "ageRange": "7+",
-          "description": "A Shakespeare play adapted for children.",
-          "whyItWorks": "Introduces children to classic literature in an accessible way.",
+          "ageRange": "All ages",
+          "description": "Theatre show.",
+          "whyItWorks": "Colourful and imaginative.",
           "transport": {
-            "fromHackney": "Tube to London Bridge.",
-            "tip": "Book tickets in advance."
+            "fromHackney": "Tube to Hammersmith",
+            "tip": "Check for family discounts."
           },
           "highlights": [
-            "indoor"
+            "indoor",
+            "theatre"
           ],
-          "bookingUrl": "null",
+          "bookingUrl": null,
           "isHighlight": false,
           "isIndoor": true,
-          "duration": "Varies",
+          "duration": "2 hours",
           "id": 23
+        },
+        {
+          "title": "Spring Family Fun",
+          "venue": "Southbank Centre",
+          "address": "Southbank",
+          "dates": "1st April – 31st May",
+          "times": "Various",
+          "price": "Some paid activities and some free",
+          "isFree": false,
+          "ageRange": "All ages",
+          "description": "Festival of fun and creativity for families including shows, musical adventures, amazing puppetry and lots of free fun.",
+          "whyItWorks": "Has a variety of activities from shows to creative spaces.",
+          "transport": {
+            "fromHackney": "Tube to Waterloo",
+            "tip": "Visit the REPLAY: A Limitless Recycled Playground (paid activity)."
+          },
+          "highlights": [
+            "indoor",
+            "theatre",
+            "interactive",
+            "free activities"
+          ],
+          "bookingUrl": null,
+          "isHighlight": false,
+          "isIndoor": true,
+          "duration": "Flexible",
+          "id": 24
         }
       ]
     }
